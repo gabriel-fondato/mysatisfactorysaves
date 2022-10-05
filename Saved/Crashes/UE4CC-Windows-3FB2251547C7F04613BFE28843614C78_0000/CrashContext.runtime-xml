@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>C9B390A14ABA9DB80C9FE7A04D107A20</ExecutionGuid>
+		<CrashGUID>UE4CC-Windows-3FB2251547C7F04613BFE28843614C78_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<ErrorMessage>Assertion failed: SerializeNum &gt;= 0 [File:D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 1152]</ErrorMessage>
+		<CrashReporterMessage />
+		<ProcessId>11800</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE4-FactoryGame</GameName>
+		<ExecutableName>FactoryGame-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<Symbols>**FactoryGame*rel-main-0.6.0-CL-202470-Win64-Shipping</Symbols>
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.26.2-202470+++FactoryGame+rel-main-0.6.0</EngineVersion>
+		<CommandLine>FactoryGame -NO_EOS_OVERLAY</CommandLine>
+		<LanguageLCID>0</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>++FactoryGame+rel-main-0.6.0-CL-202470</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>E:/SteamLibrary/steamapps/common/Satisfactory/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>E:/SteamLibrary/steamapps/common/Satisfactory/</RootDir>
+		<MachineId>B941B8EF4E02783CD34BF79FD4D1B494</MachineId>
+		<LoginId>b941b8ef4e02783cd34bf79fd4d1b494</LoginId>
+		<EpicAccountId />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1050 Ti</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>12841185280</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>12</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>3657236480</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>8033017856</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1795919872</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1864470528</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>2704109568</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>2739752960</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+		<CallStack>FactoryGame_Core_Win64_Shipping!AssertFailedImplV() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Core\Private\Misc\AssertionMacros.cpp:104]
+FactoryGame_Core_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Core\Private\Misc\AssertionMacros.cpp:461]
+FactoryGame_RenderCore_Win64_Shipping!operator&lt;&lt;() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Core\Public\Containers\Array.h:1152]
+FactoryGame_RenderCore_Win64_Shipping!operator&lt;&lt;() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\RenderCore\Public\Shader.h:317]
+FactoryGame_RenderCore_Win64_Shipping!operator&lt;&lt;() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Core\Public\Containers\Array.h:1176]
+FactoryGame_RenderCore_Win64_Shipping!FShaderMapResourceCode::Serialize() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\RenderCore\Private\ShaderResource.cpp:243]
+FactoryGame_RenderCore_Win64_Shipping!FShaderMapBase::Serialize() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\RenderCore\Private\ShaderMap.cpp:267]
+FactoryGame_Engine_Win64_Shipping!FMaterial::SerializeInlineShaderMap() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Engine\Private\Materials\MaterialShared.cpp:961]
+FactoryGame_Engine_Win64_Shipping!SerializeInlineShaderMaps() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Engine\Private\Materials\Material.cpp:749]
+FactoryGame_Engine_Win64_Shipping!UMaterial::Serialize() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Engine\Private\Materials\Material.cpp:3274]
+FactoryGame_CoreUObject_Win64_Shipping!FAsyncPackage::EventDrivenSerializeExport() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp:3198]
+FactoryGame_CoreUObject_Win64_Shipping!FAsyncPackage::ProcessImportsAndExports_Event() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp:3523]
+FactoryGame_CoreUObject_Win64_Shipping!&lt;lambda_3f9e63807f07df716a86ae9a89813604&gt;::operator()() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp:2291]
+FactoryGame_CoreUObject_Win64_Shipping!FAsyncLoadingThread::ProcessAsyncLoading() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp:4055]
+FactoryGame_CoreUObject_Win64_Shipping!FAsyncLoadingThread::TickAsyncThread() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp:4840]
+FactoryGame_CoreUObject_Win64_Shipping!FAsyncLoadingThread::Run() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp:4767]
+FactoryGame_Core_Win64_Shipping!FRunnableThreadWin::Run() [D:\ws\SB-220602145101-842\UE4\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:86]</CallStack>
+		<PCallStack>FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 19fd0b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 1a18d0 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + cbb3e FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + cb9e7 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + cbd38 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + d0e65 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + bbeb4 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 9127d6 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 8e68da FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 8e4370 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 62305 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 7e947 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 471ef FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 7d7c9 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 95258 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 8d810 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</PCallStack>
+		<PCallStackHash>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 73e5b FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 6c628 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 8a6c6a FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 88d317 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 8aea7b FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + da951b FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + d8d004 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + d1ca57 FactoryGame-FactoryGame-Win64-Shipping 0x00007ffc93110000 + 3178c2 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + d004ea FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 7a4444 FactoryGame-FactoryGame-Win64-Shipping 0x00007ffc93110000 + 32d47e FactoryGame-FactoryGame-Win64-Shipping 0x00007ffc93110000 + 32d44f FactoryGame-Win64-Shipping 0x00007ff699c70000 + 1fac FactoryGame-Win64-Shipping 0x00007ff699c70000 + 8c95 FactoryGame-Win64-Shipping 0x00007ff699c70000 + 8daa FactoryGame-Win64-Shipping 0x00007ff699c70000 + 13ae7 FactoryGame-Win64-Shipping 0x00007ff699c70000 + 1450e KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11536</ThreadID>
+				<ThreadName>GameThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5140</ThreadID>
+				<ThreadName>TaskGraphThreadNP 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11204</ThreadID>
+				<ThreadName>TaskGraphThreadNP 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>6488</ThreadID>
+				<ThreadName>TaskGraphThreadNP 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2224</ThreadID>
+				<ThreadName>TaskGraphThreadHP 3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8584</ThreadID>
+				<ThreadName>TaskGraphThreadHP 4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15768</ThreadID>
+				<ThreadName>TaskGraphThreadHP 5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12776</ThreadID>
+				<ThreadName>TaskGraphThreadBP 6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16808</ThreadID>
+				<ThreadName>TaskGraphThreadBP 7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5744b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5a822 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9076</ThreadID>
+				<ThreadName>TaskGraphThreadBP 8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15816</ThreadID>
+				<ThreadName>PoolThread 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5796</ThreadID>
+				<ThreadName>PoolThread 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8080</ThreadID>
+				<ThreadName>PoolThread 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12020</ThreadID>
+				<ThreadName>PoolThread 3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15204</ThreadID>
+				<ThreadName>PoolThread 4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d684 KERNELBASE 0x00007ffcfd290000 + 496de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 1f7410 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2976</ThreadID>
+				<ThreadName>FAsyncWriter_FactoryGame</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d684 KERNELBASE 0x00007ffcfd290000 + 496de FactoryGame-HTTP-Win64-Shipping 0x00007ffca6c60000 + 967db FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10960</ThreadID>
+				<ThreadName>HttpManagerThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-OnlineSubsystem-Win64-Shipping 0x00007ffca6430000 + 444a6 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10624</ThreadID>
+				<ThreadName>OnlineAsyncTaskThreadSteam DefaultInstance</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13976</ThreadID>
+				<ThreadName>PoolThread 5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8212</ThreadID>
+				<ThreadName>PoolThread 6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>4580</ThreadID>
+				<ThreadName>PoolThread 7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + ed6de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3004</ThreadID>
+				<ThreadName>PoolThread 8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5727b FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + 5ecd9 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13544</ThreadID>
+				<ThreadName>RHIThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5727b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5ddb6 FactoryGame-RHI-Win64-Shipping 0x00007ffcbb2b0000 + 60e45 FactoryGame-MoviePlayer-Win64-Shipping 0x00007ffcdb7a0000 + 11662 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + 72f2b FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + 4b38b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5729b FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + 5b46a FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + 5ed2a FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12872</ThreadID>
+				<ThreadName>RenderThread 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d684 KERNELBASE 0x00007ffcfd290000 + 496de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 284cba FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + 5ee48 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10728</ThreadID>
+				<ThreadName>RTHeartBeat 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Media-Win64-Shipping 0x00007ffcc8e10000 + 317c FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9776</ThreadID>
+				<ThreadName>FMediaTicker</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 26e12d FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 3dc52e VCRUNTIME140 0x00007ffcedb90000 + efc0 ntdll 0x00007ffcff530000 + a235f ntdll 0x00007ffcff530000 + 514a4 ntdll 0x00007ffcff530000 + 511f5 KERNELBASE 0x00007ffcfd290000 + 34fd9 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 26e076 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2707e6 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 1e939d FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 19fd0b FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 1a18d0 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + cbb3e FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + cb9e7 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + cbd38 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + d0e65 FactoryGame-RenderCore-Win64-Shipping 0x00007ffcbb460000 + bbeb4 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 9127d6 FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 8e68da FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 8e4370 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 62305 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 7e947 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 471ef FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 7d7c9 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 95258 FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 8d810 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>15376</ThreadID>
+				<ThreadName>FAsyncLoadingThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d684 KERNELBASE 0x00007ffcfd290000 + 496de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 284cba FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + d236e2 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2576</ThreadID>
+				<ThreadName>ScreenSaverInhibitor</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-AudioMixerCore-Win64-Shipping 0x00007ffcb77a0000 + 53d5 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>4956</ThreadID>
+				<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 5727b FactoryGame-Engine-Win64-Shipping 0x00007ffcabba0000 + 51f644 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11768</ThreadID>
+				<ThreadName>AudioThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 mswsock 0x00007ffcfc410000 + 80fc mswsock 0x00007ffcfc410000 + f4de WS2_32 0x00007ffcfe6d0000 + 116f7 FactoryGame-Sockets-Win64-Shipping 0x00007ffcb40c0000 + c9f9 FactoryGame-Sockets-Win64-Shipping 0x00007ffcb40c0000 + 1278a FactoryGame-FactoryGame-Win64-Shipping 0x00007ffc93110000 + 572547 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16408</ThreadID>
+				<ThreadName>ServerQuery</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 mswsock 0x00007ffcfc410000 + 80fc mswsock 0x00007ffcfc410000 + f4de WS2_32 0x00007ffcfe6d0000 + 116f7 FactoryGame-Sockets-Win64-Shipping 0x00007ffcb40c0000 + c9f9 FactoryGame-Sockets-Win64-Shipping 0x00007ffcb40c0000 + 1278a FactoryGame-FactoryGame-Win64-Shipping 0x00007ffc93110000 + 572547 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5676</ThreadID>
+				<ThreadName>ServerQuery</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d684 KERNELBASE 0x00007ffcfd290000 + 496de FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 284cba FactoryGame-MoviePlayer-Win64-Shipping 0x00007ffcdb7a0000 + 1137e FactoryGame-MoviePlayer-Win64-Shipping 0x00007ffcdb7a0000 + ff5a FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15840</ThreadID>
+				<ThreadName>SlateLoadingThread1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffcff530000 + 9d084 KERNELBASE 0x00007ffcfd290000 + 21ace FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2865cc FactoryGame-CoreUObject-Win64-Shipping 0x00007ffcae780000 + 218c52 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 2842f7 FactoryGame-Core-Win64-Shipping 0x00007ffcb1600000 + 27d6b1 KERNEL32 0x00007ffcfdc10000 + 17034 ntdll 0x00007ffcff530000 + 526a1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12116</ThreadID>
+				<ThreadName>FAsyncPurge</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>638005135696390000</TimeOfCrash>
+		<bAllowToBeContacted>0</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10 (Release 2009)  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+		<Modules>E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Win64-Shipping.exe
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\WebMMedia\Binaries\Win64\FactoryGame-WebMMediaFactory-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\WebMMedia\Binaries\Win64\FactoryGame-WebMMedia-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\CharacterAI\Binaries\Win64\FactoryGame-CharacterAI-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PlanarCutPlugin\Binaries\Win64\FactoryGame-PlanarCut-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\MfMedia\Binaries\Win64\FactoryGame-MfMediaFactory-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SessionServices-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SessionMessages-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-StreamingPauseRendering-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioMixerXAudio2-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\Synthesis\Binaries\Win64\FactoryGame-Synthesis-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\GooglePAD\Binaries\Win64\FactoryGame-GooglePAD-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\CustomMeshComponent\Binaries\Win64\FactoryGame-CustomMeshComponent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\CableComponent\Binaries\Win64\FactoryGame-CableComponent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioCaptureRtAudio-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AudioCapture\Binaries\Win64\FactoryGame-AudioCapture-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioCaptureCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AssetTags\Binaries\Win64\FactoryGame-AssetTags-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AppleImageUtils\Binaries\Win64\FactoryGame-AppleImageUtils-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ActorLayerUtilities\Binaries\Win64\FactoryGame-ActorLayerUtilities-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemNull\Binaries\Win64\FactoryGame-OnlineSubsystemNull-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MovieScene\TemplateSequence\Binaries\Win64\FactoryGame-TemplateSequence-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\MediaCompositing\Binaries\Win64\FactoryGame-MediaCompositing-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\ImgMedia\Binaries\Win64\FactoryGame-ImgMedia-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\ImgMedia\Binaries\Win64\FactoryGame-OpenExrWrapper-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\ImgMedia\Binaries\Win64\FactoryGame-ImgMediaFactory-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MagicLeap\MagicLeapPassableWorld\Binaries\Win64\FactoryGame-MagicLeapSharedWorld-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\MotoSynth\Binaries\Win64\FactoryGame-MotoSynth-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosNiagara\Binaries\Win64\FactoryGame-ChaosNiagara-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ProceduralMeshComponent\Binaries\Win64\FactoryGame-ProceduralMeshComponent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-InteractiveToolsFramework-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryCollectionPlugin\Binaries\Win64\FactoryGame-GeometryCollectionTracks-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\EditableMesh\Binaries\Win64\FactoryGame-EditableMesh-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-GeometryCollectionEngine-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-FieldSystemEngine-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ChaosSolverEngine-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryProcessing\Binaries\Win64\FactoryGame-MeshConversion-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryProcessing\Binaries\Win64\FactoryGame-DynamicMesh-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryProcessing\Binaries\Win64\FactoryGame-GeometryAlgorithms-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryProcessing\Binaries\Win64\FactoryGame-GeometricObjects-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\BackChannel\Binaries\Win64\FactoryGame-BackChannel-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\AutomationUtils\Binaries\Win64\FactoryGame-AutomationUtils-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryCache\Binaries\Win64\FactoryGame-GeometryCacheTracks-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryCache\Binaries\Win64\FactoryGame-GeometryCache-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Developer\UObjectPlugin\Binaries\Win64\FactoryGame-UObjectPlugin-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\FullBodyIK\Binaries\Win64\FactoryGame-FullBodyIK-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\Landmass\Binaries\Win64\FactoryGame-Landmass-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\RawInput\Binaries\Win64\FactoryGame-RawInput-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\Steam\SteamController\Binaries\Win64\FactoryGame-SteamController-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-LoginFlow-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-WebBrowser-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-CEF3Utils-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-PlayTimeLimit-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-Rejoin-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-Hotfix-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-PatchCheck-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-Lobby-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-Party-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64\FactoryGame-Qos-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Icmp-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\PacketHandlers\DTLSHandlerComponent\Binaries\Win64\FactoryGame-DTLSHandlerComponent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\FactoryGame\Binaries\Win64\FactoryGame-FactoryGame-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\DSTelemetry\Binaries\Win64\FactoryGame-DSTelemetry-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Foliage-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64\FactoryGame-AudioSynesthesia-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64\FactoryGame-AudioSynesthesiaCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\PhysXVehicles\Binaries\Win64\FactoryGame-PhysXVehicles-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\FX\Niagara\Binaries\Win64\FactoryGame-Niagara-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioAnalyzer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\SoundFields\Binaries\Win64\FactoryGame-SoundFields-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\RuntimePhysXCooking\Binaries\Win64\FactoryGame-RuntimePhysXCooking-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MovieScene\ActorSequence\Binaries\Win64\FactoryGame-ActorSequence-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Messaging\UdpMessaging\Binaries\Win64\FactoryGame-UdpMessaging-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Messaging\TcpMessaging\Binaries\Win64\FactoryGame-TcpMessaging-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Serialization-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ControlRig\Binaries\Win64\FactoryGame-ControlRig-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Wwise\Binaries\Win64\FactoryGame-AkAudio-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Cbor-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MagicLeap\MagicLeapPassableWorld\Binaries\Win64\FactoryGame-MagicLeapARPin-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\FX\Niagara\Binaries\Win64\FactoryGame-NiagaraAnimNotifies-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-VectorVM-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Editor\FacialAnimation\Binaries\Win64\FactoryGame-FacialAnimation-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Developer\AnimationSharing\Binaries\Win64\FactoryGame-AnimationSharing-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Blendables\LightPropagationVolume\Binaries\Win64\FactoryGame-LightPropagationVolumeRuntime-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\2D\Paper2D\Binaries\Win64\FactoryGame-Paper2D-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-RigVM-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\Apex_Destructible_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ApexDestruction\Binaries\Win64\FactoryGame-ApexDestruction-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\WindowsMoviePlayer\Binaries\Win64\FactoryGame-WindowsMoviePlayer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\WebMMoviePlayer\Binaries\Win64\FactoryGame-WebMMoviePlayer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-NetworkReplayStreaming-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\SignificanceManager\Binaries\Win64\FactoryGame-SignificanceManager-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ReplicationGraph\Binaries\Win64\FactoryGame-ReplicationGraph-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ClothingSystemRuntimeNv-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Overlay-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Messaging-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-HeadMountedDisplay-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AugmentedReality-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MRMesh-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-XAudio2-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ImageWrapper-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-D3D12RHI-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Networking-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MediaInfo-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PhysXCooking-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEXFramework_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-WindowsPlatformFeatures-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-GameplayMediaEncoder-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AVEncoder-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64\FactoryGame-ExampleDeviceProfileSelector-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ChunkDownloader\Binaries\Win64\FactoryGame-ChunkDownloader-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Portal\LauncherChunkInstaller\Binaries\Win64\FactoryGame-LauncherChunkInstaller-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\WmfMedia\Binaries\Win64\FactoryGame-WmfMedia-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\WmfMedia\Binaries\Win64\FactoryGame-WmfMediaFactory-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\ImgMedia\Binaries\Win64\FactoryGame-ExrReaderGpu-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MagicLeap\MLSDK\Binaries\Win64\FactoryGame-MLSDK-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\FX\Niagara\Binaries\Win64\FactoryGame-NiagaraVertexFactories-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\FX\Niagara\Binaries\Win64\FactoryGame-NiagaraShader-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\FX\Niagara\Binaries\Win64\FactoryGame-NiagaraCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosCloth\Binaries\Win64\FactoryGame-ChaosCloth-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ClothingSystemRuntimeCommon-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Enterprise\VariantManagerContent\Binaries\Win64\FactoryGame-VariantManagerContent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Enterprise\DatasmithContent\Binaries\Win64\FactoryGame-DatasmithContent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-CinematicCamera-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-LevelSequence-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MediaAssets-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AIModule-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-NavigationSystem-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Navmesh-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\AI\AISupport\Binaries\Win64\FactoryGame-AISupportModule-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-GameplayTasks-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\WindowsDeviceProfileSelector\Binaries\Win64\FactoryGame-WindowsDeviceProfileSelector-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Compositing\LensDistortion\Binaries\Win64\FactoryGame-LensDistortion-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\Steamworks\Steamv147\Win64\steam_api64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemSteam\Binaries\Win64\FactoryGame-OnlineSubsystemSteam-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\EOSSDK-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemEOS\Binaries\Win64\FactoryGame-OnlineSubsystemEOS-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemUtils\Binaries\Win64\FactoryGame-OnlineSubsystemUtils-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Voice-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystem\Binaries\Win64\FactoryGame-OnlineSubsystem-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-JsonUtilities-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PlatformCrypto\Binaries\Win64\FactoryGame-PlatformCryptoOpenSSL-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-InstancedSplines-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-OpenGLDrv-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-D3D11RHI-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SSL-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-HTTP-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Renderer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Chaos-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PhysicsCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SlateCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\Steam\SteamShared\Binaries\Win64\FactoryGame-SteamShared-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Engine-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-UMG-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-CoreUObject-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SlateRHIRenderer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AnimGraphRuntime-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PlatformCrypto\Binaries\Win64\FactoryGame-PlatformCrypto-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PlatformCrypto\Binaries\Win64\FactoryGame-PlatformCryptoTypes-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SandboxFile-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MovieSceneTracks-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Core-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AnimationCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Voronoi-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MovieScene-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Sockets-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-BuildPatchServices-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64\FactoryGame-PythonScriptPluginPreload-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Slate-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MeshUtilitiesCommon-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SoundFieldRendering-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioMixerCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PropertyPath-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-SignalProcessing-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ImageWriteQueue-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ClothingSystemRuntimeInterface-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-RawMesh-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PakFile-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PropertyAccess-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioMixer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Landscape-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-RSA-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-StaticMeshDescription-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-RHI-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-RenderCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioExtensions-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MeshDescription-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ReliabilityHandlerComponent-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-GameplayTags-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AssetRegistry-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Media-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-DeveloperSettings-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Json-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PacketHandler-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MediaUtils-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-AudioPlatformConfiguration-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-InstallBundleManager-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-ApplicationCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-EngineSettings-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-Projects-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-InputCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-EngineMessages-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-PreLoadScreen-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-NetCore-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-CrunchCompression-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MoviePlayer-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-MaterialShaderQualitySettings-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\Win64\FactoryGame-BuildSettings-Win64-Shipping.dll
+E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll</Modules>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+	<EngineData>
+		<FactoryGame.IsDedicatedServer>false</FactoryGame.IsDedicatedServer>
+		<FactoryGame.Launcher>Steam</FactoryGame.Launcher>
+		<RHI.RHIName>D3D12</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce GTX 1050 Ti</RHI.AdapterName>
+		<RHI.UserDriverVersion>512.15</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>30.0.15.1215</RHI.InternalDriverVersion>
+		<RHI.DriverDate>3-17-2022</RHI.DriverDate>
+		<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+		<FactoryGame.NetMode>Standalone</FactoryGame.NetMode>
+	</EngineData>
+	<GameData />
+</FGenericCrashContext>
