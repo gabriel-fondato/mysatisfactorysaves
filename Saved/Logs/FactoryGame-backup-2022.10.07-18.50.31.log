@@ -1,0 +1,779 @@
+﻿Log file open, 10/07/22 15:25:24
+LogInit: Display: Running engine for game: FactoryGame
+LogInit: Display: Project file not found: E:/SteamLibrary/steamapps/common/Satisfactory/FactoryGame/FactoryGame.uproject
+LogInit: Display: 	Attempting to find via project info helper.
+LogUProjectInfo: Found projects:
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=865794
+LogPakFile: PakFile PathHashIndexSize=803921
+LogPakFile: PakFile FullDirectoryIndexSize=2263383
+LogPakFile: OnPakFileMounted2Time == 0.000006
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 13 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin DTLSHandlerComponent
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin FullBodyIK
+LogPluginManager: Mounting plugin DSTelemetry
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ComplementMoreMilestone
+LogPluginManager: Mounting plugin MiniMap
+LogPluginManager: Mounting plugin ModularUI
+LogPluginManager: Mounting plugin MoreMilestones
+LogPluginManager: Mounting plugin OtherComp3
+LogPluginManager: Mounting plugin RefinedPower
+LogPluginManager: Mounting plugin RefinedRDLib
+LogPluginManager: Mounting plugin SML
+LogPakFile: PakFile PrimaryIndexSize=46475
+LogPakFile: PakFile PathHashIndexSize=46328
+LogPakFile: PakFile FullDirectoryIndexSize=134104
+LogPakFile: OnPakFileMounted2Time == 0.000008
+LogPakFile: PakFile PrimaryIndexSize=835
+LogPakFile: PakFile PathHashIndexSize=757
+LogPakFile: PakFile FullDirectoryIndexSize=1775
+LogPakFile: OnPakFileMounted2Time == 0.000010
+LogPakFile: PakFile PrimaryIndexSize=10929
+LogPakFile: PakFile PathHashIndexSize=10796
+LogPakFile: PakFile FullDirectoryIndexSize=27800
+LogPakFile: OnPakFileMounted2Time == 0.000011
+LogPakFile: PakFile PrimaryIndexSize=96038
+LogPakFile: PakFile PathHashIndexSize=95900
+LogPakFile: PakFile FullDirectoryIndexSize=261289
+LogPakFile: OnPakFileMounted2Time == 0.000020
+LogPakFile: PakFile PrimaryIndexSize=24850
+LogPakFile: PakFile PathHashIndexSize=24716
+LogPakFile: PakFile FullDirectoryIndexSize=57883
+LogPakFile: OnPakFileMounted2Time == 0.000022
+LogPakFile: PakFile PrimaryIndexSize=24648
+LogPakFile: PakFile PathHashIndexSize=24569
+LogPakFile: PakFile FullDirectoryIndexSize=85375
+LogPakFile: OnPakFileMounted2Time == 0.000023
+LogPakFile: PakFile PrimaryIndexSize=1956
+LogPakFile: PakFile PathHashIndexSize=1877
+LogPakFile: PakFile FullDirectoryIndexSize=5237
+LogPakFile: OnPakFileMounted2Time == 0.000025
+LogPakFile: PakFile PrimaryIndexSize=1215
+LogPakFile: PakFile PathHashIndexSize=1172
+LogPakFile: PakFile FullDirectoryIndexSize=3526
+LogPakFile: OnPakFileMounted2Time == 0.000026
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Creating online subsystem instance for: EOS
+LogOnline: OSS: FOnlineSubsystemEOS: Init success.
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: STEAM
+LogGenericPlatformMisc: Error: SetEnvironmentVar not implemented for this platform: SteamAppId = 526870
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 526870] Client API initialized 1
+LogOnline: STEAM: Initializing SteamNetworking Layer
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+LogOnline: Warning: STEAM: Failed to obtain steam user stats, user: (STEAM)Redgabriel_13 [0x1853541CA00] has no stats entries
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogWmfMedia: Failed to load mf.dll
+LogWmfMedia: Failed to load required Windows Media Foundation libraries
+LogInit: Build: ++FactoryGame+rel-main-0.6.0-CL-202470
+LogInit: Engine Version: 4.26.2-202470+++FactoryGame+rel-main-0.6.0
+LogInit: Compatible Engine Version: 4.26.2-202470+++FactoryGame+rel-main-0.6.0
+LogInit: Net CL: 202470
+LogInit: OS: Windows 10 (Release 2009) (), CPU:         Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Sep 27 2022 18:39:00
+LogInit: Compiled with Visual C++: 19.24.28325.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-0.6.0
+LogInit: Command Line:  -NO_EOS_OVERLAY
+LogInit: Base Directory: E:/SteamLibrary/steamapps/common/Satisfactory/Engine/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 1
+LogInit: Launcher File: E:/SteamLibrary/steamapps/common/Satisfactory/launcher_id
+LogInit: Launcher ID: steam
+LogInit: Launcher Artifact: 
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+[2022.10.07-18.26.59:774][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.10.07-18.26.59:803][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2022.10.07-18.27.00:107][  0]LogHAL: Display: Platform has ~ 12 GB [12841185280 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.07-18.27.00:158][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.10.07-18.27.00:158][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.07-18.27.00:690][  0]LogInit: Computer: DESKTOP-C496C71
+[2022.10.07-18.27.00:690][  0]LogInit: User: red
+[2022.10.07-18.27.00:690][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.07-18.27.00:690][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.07-18.27.00:690][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2022.10.07-18.27.00:690][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2022.10.07-18.27.00:690][  0]LogMemory: Process Physical Memory: 115.52 MB used, 115.52 MB peak
+[2022.10.07-18.27.00:690][  0]LogMemory: Process Virtual Memory: 96.18 MB used, 96.18 MB peak
+[2022.10.07-18.27.00:690][  0]LogMemory: Physical Memory: 6860.52 MB used,  5385.79 MB free, 12246.31 MB total
+[2022.10.07-18.27.00:690][  0]LogMemory: Virtual Memory: 134205952.00 MB used,  11772.51 MB free, 134217728.00 MB total
+[2022.10.07-18.27.01:101][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.07-18.27.08:248][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.07-18.27.08:825][  0]LogInit: Overriding language with engine language configuration option (en-US-Posix).
+[2022.10.07-18.27.08:825][  0]LogInit: Overriding language with engine locale configuration option (en-US-Posix).
+[2022.10.07-18.27.09:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/en-US-POSIX/Engine.locres' could not be opened for reading!
+[2022.10.07-18.27.09:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en-US-POSIX/OnlineFramework.locres' could not be opened for reading!
+[2022.10.07-18.27.09:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en-US-POSIX/OnlineSubsystem.locres' could not be opened for reading!
+[2022.10.07-18.27.09:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en-US-POSIX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.10.07-18.27.09:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en-US-POSIX/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2022.10.07-18.27.10:979][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.07-18.27.16:918][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.07-18.27.16:919][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.07-18.27.19:139][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.07-18.27.21:274][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 Ti (Max supported Feature Level 12_1)
+[2022.10.07-18.27.21:274][  0]LogD3D12RHI: Adapter has 4018MB of dedicated video memory, 0MB of dedicated system memory, and 6123MB of shared system memory, 1 output[s]
+[2022.10.07-18.27.22:831][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.10.07-18.27.22:831][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 6123MB of shared system memory, 0 output[s]
+[2022.10.07-18.27.22:968][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.07-18.27.23:403][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.07-18.27.23:567][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.10.07-18.27.23:567][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.10.07-18.27.27:026][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.07-18.27.27:026][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.07-18.27.27:492][  0]LogD3D12RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.07-18.27.27:492][  0]LogWindows: EnumDisplayDevices:
+[2022.10.07-18.27.27:493][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2022.10.07-18.27.27:493][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.10.07-18.27.27:493][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.10.07-18.27.27:494][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.10.07-18.27.27:494][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.07-18.27.27:494][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.10.07-18.27.27:494][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.10.07-18.27.27:494][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.10.07-18.27.27:494][  0]LogRHI: Texture pool is 2151 MB (70% of 3073 MB)
+[2022.10.07-18.27.27:494][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.07-18.27.27:494][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.07-18.27.32:055][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.07-18.27.32:170][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.07-18.27.40:221][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.07-18.27.40:748][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.07-18.27.45:836][  0]LogInit: Overriding language with engine language configuration option (en-US-Posix).
+[2022.10.07-18.27.45:836][  0]LogInit: Overriding language with engine locale configuration option (en-US-Posix).
+[2022.10.07-18.27.46:804][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/Game/en/Game.locres' could not be opened for reading!
+[2022.10.07-18.27.46:804][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/InputKeys/en/InputKeys.locres' could not be opened for reading!
+[2022.10.07-18.27.46:810][  0]LogTextLocalizationManager: Compacting localization data took   1.36ms
+[2022.10.07-18.27.55:215][  0]LogAssetRegistry: FAssetRegistry took 7.9489 seconds to start up
+[2022.10.07-18.28.01:018][  0]LogEnum: Warning: EnumRedirect for enum ECachedNatType maps 'ECachedNATType::CNT_MAX' to invalid value 'ECachedNatType::CNT_MAX'!
+[2022.10.07-18.28.08:809][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.07-18.28.09:221][  0]LogPackageLocalizationCache: Processed 35 localized package path(s) for 2 prioritized culture(s) in 0.201921 seconds
+[2022.10.07-18.28.09:655][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.28.10:505][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.10.07-18.28.10:616][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.10.07-18.28.10:806][  0]LogInit: Active device profile: [0000018533E431C0][0000018546C189E0 49] WindowsNoEditor
+[2022.10.07-18.28.10:806][  0]LogInit: Profiles: [0000018533E46280][0000018546C19D90 49] Windows, [0000018533E431C0][0000018546C189E0 49] WindowsNoEditor, 
+[2022.10.07-18.28.12:805][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 202470, EngineNetVer: 16, GameNetVer: 0 (Checksum: 972732958)
+[2022.10.07-18.28.47:789][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2022.10.07-18.28.47:790][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2022.10.07-18.28.47:791][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2022.10.07-18.28.47:791][  0]LogMoviePlayer: Initializing movie player
+[2022.10.07-18.28.52:405][  0]LogAkAudio: Wwise(R) SDK Version 2021.1.0 Build 7575. Copyright (c) 2006-2021 Audiokinetic Inc.
+[2022.10.07-18.28.52:410][  0]LogAkAudio: Wwise plug-in DLL path: E:/SteamLibrary/steamapps/common/Satisfactory/Engine/Plugins/Wwise/ThirdParty/x64_vc160/Release/bin/
+[2022.10.07-18.28.52:426][  0]LogAkAudio: Wwise successfully initialized.
+[2022.10.07-18.28.52:459][  0]LogAkAudio: Initialization complete.
+[2022.10.07-18.28.52:459][  0]LogInit: Audiokinetic Audio Device initialized.
+[2022.10.07-18.28.52:459][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTree/Icons/Titlebar_WwiseAppIcon requested by async loading code. NameToLoad: /Wwise/WwiseTree/Icons/Titlebar_WwiseAppIcon
+[2022.10.07-18.28.52:459][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.28.53:242][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Acoustic_Portal requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Acoustic_Portal
+[2022.10.07-18.28.53:242][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.28.53:242][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Acoustic_Portal_Explorer requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Acoustic_Portal_Explorer
+[2022.10.07-18.28.53:242][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.28.53:242][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Spatial_Audio_Volume requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Spatial_Audio_Volume
+[2022.10.07-18.28.53:242][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.28.53:243][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Spatial_Audio_Volume_Explorer requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Spatial_Audio_Volume_Explorer
+[2022.10.07-18.28.53:243][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.28.53:243][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Reverb_Volume requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Reverb_Volume
+[2022.10.07-18.28.53:243][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.28.53:243][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Reverb_Volume_Explorer requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Reverb_Volume_Explorer
+[2022.10.07-18.28.53:243][  0]LogStreaming: Error: Found 0 dependent packages...
+[2022.10.07-18.29.28:004][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__FGDockingStationInfo. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.10.07-18.29.28:433][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-18.30.54:631][  0]LogStaticMesh: [SM_SpitterMine_01] Mesh is marked for CPU read.
+[2022.10.07-18.31.12:933][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT1 requested by async loading code. NameToLoad: /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT1
+[2022.10.07-18.31.12:933][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.31.12:933][  0]LogStreaming: Error:   /Game/FactoryGame/Prototype/WAT/Desc_WAT1
+[2022.10.07-18.31.13:399][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT2 requested by async loading code. NameToLoad: /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT2
+[2022.10.07-18.31.13:399][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.31.13:399][  0]LogStreaming: Error:   /Game/FactoryGame/Prototype/WAT/Desc_WAT2
+[2022.10.07-18.31.13:837][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__FGSimulatedWheeledVehicle. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.10.07-18.31.32:931][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-18.32.34:247][  0]LogPakFile: Precache HighWater 16MB
+
+[2022.10.07-18.32.34:247][  0]LogPakFile: Precache HighWater 32MB
+
+[2022.10.07-18.32.34:247][  0]LogPakFile: Precache HighWater 48MB
+
+[2022.10.07-18.32.34:247][  0]LogPakFile: Precache HighWater 64MB
+
+[2022.10.07-18.32.34:247][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-18.33.42:420][  0]LogPakFile: Precache HighWater 80MB
+
+[2022.10.07-18.33.42:420][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-18.34.32:326][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-18.35.40:450][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__FGWheeledVehicleInfo. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.10.07-18.36.01:873][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.07-18.36.01:873][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.07-18.36.12:660][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/RefinedRDLib/Content/Paks/WindowsNoEditor/RefinedRDLibFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.36.12:811][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/SML/Content/Paks/WindowsNoEditor/SMLFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.36.12:906][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/ModularUI/Content/Paks/WindowsNoEditor/ModularUIFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.36.14:114][  0]LogNativeHookManager: Display: Attempting to resolve virtual function AFGGameMode::PostLogin. This adjustment: 0, virtual function table offset: 1888
+[2022.10.07-18.36.14:206][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk AFGGameMode::PostLogin at 00007FFA4B663614 to function implementation at 00007FFA4E13E5B0
+[2022.10.07-18.36.14:206][  0]LogNativeHookManager: Display: Hooking function AFGGameMode::PostLogin: Provided address: 00007FFA4B663614, resolved address: 00007FFA4E13E5B0
+[2022.10.07-18.36.14:464][  0]LogNativeHookManager: Display: Successfully hooked function AFGGameMode::PostLogin at 00007FFA4E13E5B0
+[2022.10.07-18.36.14:674][  0]LogNativeHookManager: Display: Attempting to resolve virtual function AFGGameMode::PostLogin. This adjustment: 0, virtual function table offset: 1888
+[2022.10.07-18.36.14:771][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk AFGGameMode::PostLogin at 00007FFA4B760394 to function implementation at 00007FFA4B6854B0
+[2022.10.07-18.36.14:771][  0]LogNativeHookManager: Display: Hooking function AFGGameMode::PostLogin: Provided address: 00007FFA4B760394, resolved address: 00007FFA4B6854B0
+[2022.10.07-18.36.14:772][  0]LogNativeHookManager: Display: Successfully hooked function AFGGameMode::PostLogin at 00007FFA4B6854B0
+[2022.10.07-18.36.14:825][  0]LogSatisfactoryModLoader: Display: Satisfactory Mod Loader v.3.4.0+79 pre-initializing...
+[2022.10.07-18.36.14:825][  0]LogSatisfactoryModLoader: Display: Build Date: Oct  2 2022 05:07:21
+[2022.10.07-18.36.15:008][  0]LogSatisfactoryModLoader: Display: Successfully loaded SML configuration from disk
+[2022.10.07-18.36.15:008][  0]LogSatisfactoryModLoader: Display: Version check passed successfully! Game Changelist: 202470
+[2022.10.07-18.36.15:008][  0]LogSatisfactoryModLoader: Display: Pre-initialization finished!
+[2022.10.07-18.36.15:206][  0]LogUObjectArray: 84025 objects as part of root set at end of initial load.
+[2022.10.07-18.36.15:206][  0]LogUObjectArray: 25 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.10.07-18.36.15:206][  0]LogUObjectAllocator: 25574088 out of 0 bytes used by permanent object pool.
+[2022.10.07-18.36.15:206][  0]LogUObjectArray: CloseDisregardForGC: 84025/84025 objects in disregard for GC pool
+[2022.10.07-18.36.15:826][  0]LogEngine: Initializing Engine...
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/ComplementMoreMilestone/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/MiniMap/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/ModularUI/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/MoreMilestones/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/OtherComp3/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/RefinedPower/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/RefinedRDLib/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogLinker: AddRedirectList(UModContentRemapper::Initialize) has substring redirect /Game/SML/, these are very slow and should be resolved as soon as possible!
+[2022.10.07-18.36.15:901][  0]LogSatisfactoryModLoader: Registered 8 plugin content remaps
+[2022.10.07-18.36.16:600][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.222 s
+[2022.10.07-18.36.19:173][  0]LogAssetManager: Warning: Ignoring PrimaryAssetType Profiling - Conflicts with Map
+[2022.10.07-18.36.19:280][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.07-18.36.19:280][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.07-18.36.19:572][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.07-18.36.19:608][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-18.36.19:772][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-18.36.19:772][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-18.36.19:850][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.07-18.36.19:930][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-18.36.21:746][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.07-18.36.22:240][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-18.36.22:240][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-18.36.22:344][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.10.07-18.36.22:672][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-18.36.22:702][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-18.36.22:702][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-18.36.22:816][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-18.36.22:828][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-18.36.22:828][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-18.36.22:829][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-18.36.22:829][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-18.36.22:829][  0]LogInit: FAudioDevice initialized.
+[2022.10.07-18.36.24:199][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.36.24:200][  0]LogAudio: Display: Waited 35.784801 ms for audio thread.
+[2022.10.07-18.36.24:200][  0]LogAudio: Display: Waited 48.883301 ms for audio thread.
+[2022.10.07-18.36.24:200][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2022.10.07-18.36.24:200][  0]LogInit: Texture streaming: Enabled
+[2022.10.07-18.39.07:281][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/MiniMap/Content/Paks/WindowsNoEditor/MiniMapFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.39.07:281][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/MoreMilestones/Content/Paks/WindowsNoEditor/MoreMilestonesFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.39.07:281][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/OtherComp3/Content/Paks/WindowsNoEditor/OtherComp3FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.39.07:281][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/ComplementMoreMilestone/Content/Paks/WindowsNoEditor/ComplementMoreMilestoneFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Vehicle/Explorer/UI/Explorer_512 requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Vehicle/Explorer/UI/Explorer_512
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error:   /MoreMilestones/Rewards/BigConstructor/BigExplorer/Desc_BuildExplorer
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Vehicle/Explorer/UI/Explorer_256 requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Vehicle/Explorer/UI/Explorer_256
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error:   /MoreMilestones/Rewards/BigConstructor/BigExplorer/Desc_BuildExplorer
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Vehicle/Tractor/UI/Tractor_512 requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Vehicle/Tractor/UI/Tractor_512
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error:   /MoreMilestones/Rewards/BigConstructor/BigTractor/Desc_BuildTractor
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Vehicle/Tractor/UI/Tractor_256 requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Vehicle/Tractor/UI/Tractor_256
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error:   /MoreMilestones/Rewards/BigConstructor/BigTractor/Desc_BuildTractor
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Vehicle/Truck/UI/Truck_512 requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Vehicle/Truck/UI/Truck_512
+[2022.10.07-18.39.07:281][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/BigConstructor/BigTruck/Desc_BuildTruck
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Vehicle/Truck/UI/Truck_256 requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Vehicle/Truck/UI/Truck_256
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/BigConstructor/BigTruck/Desc_BuildTruck
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/World/Environment/Foliage/Fungi/MushroomPlant_01/MushroomPlant_01 requested by async loading code. NameToLoad: /Game/FactoryGame/World/Environment/Foliage/Fungi/MushroomPlant_01/MushroomPlant_01
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/ToxicExtractor/Build_ToxicExtractor
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/World/Environment/Rock/SmoothRock/Mesh/SmoothRock_04 requested by async loading code. NameToLoad: /Game/FactoryGame/World/Environment/Rock/SmoothRock/Mesh/SmoothRock_04
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/ToxicReactor/Build_ToxicReactor
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/World/Environment/Rock/SmoothRock/Mesh/SmoothRock_02 requested by async loading code. NameToLoad: /Game/FactoryGame/World/Environment/Rock/SmoothRock/Mesh/SmoothRock_02
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/ToxicReactor/Build_ToxicReactor
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Factory/AssemblerMk1/Mesh/AssemblerMk1_skl requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Factory/AssemblerMk1/Mesh/AssemblerMk1_skl
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/TheAssemblerandDisassembler/Build_AssDisass
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Factory/FoundryMk1/Mesh/FoundryMk1_skl_Skeleton requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Factory/FoundryMk1/Mesh/FoundryMk1_skl_Skeleton
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /OtherComp3/Meshs_SK/FoundryMk1_skl
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Factory/FoundryMk1/Mesh/FoundryMk1_skl_PhysicsAsset requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Factory/FoundryMk1/Mesh/FoundryMk1_skl_PhysicsAsset
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /OtherComp3/Meshs_SK/FoundryMk1_skl
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Equipment/Cup/Mesh/SK_Cup_PhysicsAsset requested by async loading code. NameToLoad: /Game/FactoryGame/Equipment/Cup/Mesh/SK_Cup_PhysicsAsset
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /OtherComp3/Meshs_SK/SK_Cup
+[2022.10.07-18.39.07:282][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Factory/GeneratorCoal/Mesh/GeneratorCoal_skl requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Factory/GeneratorCoal/Mesh/GeneratorCoal_skl
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/Coal/Build_SupremeWasteBurner
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Factory/GeneratorBiomass/Mesh/GeneratorBiomass_skl requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Factory/GeneratorBiomass/Mesh/GeneratorBiomass_skl
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /MoreMilestones/Rewards/Coal/Build_SyntheticHeliumReactor
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Buildable/Factory/GeneratorGeoThermal/Mesh/GeneratorGeoThermal_skl_Skeleton requested by async loading code. NameToLoad: /Game/FactoryGame/Buildable/Factory/GeneratorGeoThermal/Mesh/GeneratorGeoThermal_skl_Skeleton
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:282][  0]LogStreaming: Error:   /OtherComp3/GeneratorGeoThermal_skl
+[2022.10.07-18.39.07:282][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.39.07:282][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.39.07:282][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.39.07:282][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'Material_Green', will use default material.
+[2022.10.07-18.39.07:282][  0]LogMaterial: Can't compile Material_Green with cooked content, will use default material instead
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: Couldn't find file for package /Game/Utils/Textures/Factory_FakedData_N_Array requested by async loading code. NameToLoad: /Game/Utils/Textures/Factory_FakedData_N_Array
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error:   /OtherComp3/MI_Factory_Base_01_Inst1
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: Couldn't find file for package /Game/Utils/Textures/Factory_FakedData_MREO_Array requested by async loading code. NameToLoad: /Game/Utils/Textures/Factory_FakedData_MREO_Array
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error:   /OtherComp3/MI_Factory_Base_01_Inst1
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: Couldn't find file for package /Game/Utils/Textures/Factory_FakedData_BC_Array requested by async loading code. NameToLoad: /Game/Utils/Textures/Factory_FakedData_BC_Array
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.39.07:463][  0]LogStreaming: Error:   /OtherComp3/MI_Factory_Base_01_Inst1
+[2022.10.07-18.39.07:463][  0]LogMaterial: Warning: [AssetLog] /OtherComp3/Material/Material_Green.Material_Green: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.39.07:463][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.39.07:463][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'Material_Red', will use default material.
+[2022.10.07-18.39.07:463][  0]LogMaterial: Can't compile Material_Red with cooked content, will use default material instead
+[2022.10.07-18.39.07:463][  0]LogMaterial: Warning: [AssetLog] /OtherComp3/Material/Material_Red.Material_Red: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.39.12:643][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.39.12:643][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'GasFlower', will use default material.
+[2022.10.07-18.39.12:643][  0]LogMaterial: Can't compile GasFlower with cooked content, will use default material instead
+[2022.10.07-18.39.12:643][  0]LogMaterial: Warning: [AssetLog] /OtherComp3/Material/GasFlower.GasFlower: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.42.51:612][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Resource/Parts/NuclearFuelRod/Textures/T_NuclearFuelRod_Relf requested by async loading code. NameToLoad: /Game/FactoryGame/Resource/Parts/NuclearFuelRod/Textures/T_NuclearFuelRod_Relf
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_Root/Inst_Root_66
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Resource/RawResources/Material/Texture/Iron_Alb requested by async loading code. NameToLoad: /Game/FactoryGame/Resource/RawResources/Material/Texture/Iron_Alb
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_Root/Z_Iron_Inst_Root
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/World/Environment/Rock/Texture/T_SmoothRock_Alb requested by async loading code. NameToLoad: /Game/FactoryGame/World/Environment/Rock/Texture/T_SmoothRock_Alb
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_Root/Z_Rock_Inst_Root
+[2022.10.07-18.42.51:612][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.42.51:612][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Resource/Parts/HeavyOilResidue/Textures/T_HeavyOilResidue_Relf requested by async loading code. NameToLoad: /Game/FactoryGame/Resource/Parts/HeavyOilResidue/Textures/T_HeavyOilResidue_Relf
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_LOD1/Inst_Barrel_LOD1_1
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Resource/Parts/Battery/Texture/TX_Battery_MREO requested by async loading code. NameToLoad: /Game/FactoryGame/Resource/Parts/Battery/Texture/TX_Battery_MREO
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_LOD1/Inst_LOD1_10
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Resource/Parts/IronPlate/Texture/T_IronPlate_N requested by async loading code. NameToLoad: /Game/FactoryGame/Resource/Parts/IronPlate/Texture/T_IronPlate_N
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_Root/Inst_Root_134
+[2022.10.07-18.42.51:612][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/ProductionPlus/Mesh/plate4/T_IronPlate_N' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Wwise/', '/GeometryMode/', '/LensDistortion/', '/PythonScriptPlugin/', '/EditorTests/', '/RuntimeTests/', '/Landmass/', '/ControlRig/', '/FullBodyIK/', '/CSSEditorToolsExtension/', '/Paper2D/', '/AnimationSharing/', '/SpeedTreeImporter/', '/DatasmithContent/', '/ChaosClothEditor/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/ChaosSolverPlugin/', '/ChaosNiagara/', '/Niagara/', '/MotoSynth/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/Synthesis/', '/AudioSynesthesia/', '/ComplementMoreMilestone/', '/MiniMap/', '/ModularUI/', '/MoreMilestones/', '/OtherComp3/', '/RefinedPower/', '/RefinedRDLib/', '/SML/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /ProductionPlus/Mesh/plate4/T_IronPlate_N requested by async loading code. NameToLoad: /ProductionPlus/Mesh/plate4/T_IronPlate_N
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /MoreMilestones/_Material_LOD1/Inst_LOD1_134
+[2022.10.07-18.42.51:612][  0]LogPakFile: New pak file ../../../FactoryGame/Mods/RefinedPower/Content/Paks/WindowsNoEditor/RefinedPowerFactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Couldn't find file for package /Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped requested by async loading code. NameToLoad: /Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error: Found 1 dependent packages...
+[2022.10.07-18.42.51:612][  0]LogStreaming: Error:   /RefinedPower/Materials/Mat_RP_LightBlueFade
+[2022.10.07-18.42.51:612][  0]LogSatisfactoryModLoader: Discovered 4 game instance modules
+[2022.10.07-18.42.51:612][  0]LogSatisfactoryModLoader: Dispatching lifecycle event CONSTRUCTION to game instance modules
+[2022.10.07-18.42.51:796][  0]LogSatisfactoryModLoader: Dispatching lifecycle event INITIALIZATION to game instance modules
+[2022.10.07-18.42.51:850][  0]LogSatisfactoryModLoader: Registering configuration /MiniMap/Config/MiniMapConfiguration.MiniMapConfiguration_C
+[2022.10.07-18.42.52:100][  0]LogConfigManager: Display: Successfully loaded configuration from ../../../FactoryGame/Configs/MiniMap.cfg
+[2022.10.07-18.42.52:153][  0]LogSatisfactoryModLoader: Registering configuration /RefinedPower/Config/RefinedPowerConfiguration.RefinedPowerConfiguration_C
+[2022.10.07-18.42.52:212][  0]LogConfigManager: Display: Successfully loaded configuration from ../../../FactoryGame/Configs/RefinedPower.cfg
+[2022.10.07-18.42.52:212][  0]LogSatisfactoryModLoader: Registering configuration /RefinedRDLib/RRDL_Config.RRDL_Config_C
+[2022.10.07-18.42.52:249][  0]LogConfigManager: Display: Successfully loaded configuration from ../../../FactoryGame/Configs/RefinedRDLib.cfg
+[2022.10.07-18.42.52:249][  0]LogSatisfactoryModLoader: Dispatching lifecycle event POST_INITIALIZATION to game instance modules
+[2022.10.07-18.42.53:318][  0]LogTemp: Error: Bind: UserID
+[2022.10.07-18.42.53:318][  0]LogTemp: Error: Bind: PatreonCode
+[2022.10.07-18.42.55:269][  0]LogGame: MaxNumBackupsaves: 25
+[2022.10.07-18.42.56:119][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.07-18.42.57:680][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-18.42.58:620][  0]LogStreaming: Warning: Failed to read file 'C:/Users/red/AppData/Local/FactoryGame/Saved/SaveGames/ServerManager.sav' error.
+[2022.10.07-18.42.59:209][  0]LogGame: Login status changed from LoggedIn to LoggedIn
+[2022.10.07-18.42.59:541][  0]LogInit: Display: Game Engine Initialized.
+[2022.10.07-18.42.59:541][  0]LogNetVersion: Set ProjectVersion to ++FactoryGame+rel-main-0.6.0-CL-202470. Version Checksum will be recalculated on next use.
+[2022.10.07-18.42.59:541][  0]LogConsoleResponse: Display: RHIThread is now running on a dedicated thread.
+[2022.10.07-18.42.59:568][  0]LogSatisfactoryModLoader: Display: Performing mod loader initialization
+[2022.10.07-18.42.59:568][  0]LogSatisfactoryModLoader: Display: Registering subsystem patches...
+[2022.10.07-18.42.59:752][  0]LogNativeHookManager: Display: Hooking function AFGSchematicManager::PopulateSchematicsLists: Provided address: 00007FFA4E26B000, resolved address: 00007FFA4E26B000
+[2022.10.07-18.42.59:752][  0]LogNativeHookManager: Display: Successfully hooked function AFGSchematicManager::PopulateSchematicsLists at 00007FFA4E26B000
+[2022.10.07-18.42.59:773][  0]LogNativeHookManager: Display: Hooking function AFGSchematicManager::PopulateAvailableSchematicsList: Provided address: 00007FFA4E26AED0, resolved address: 00007FFA4E26AED0
+[2022.10.07-18.42.59:773][  0]LogNativeHookManager: Display: Successfully hooked function AFGSchematicManager::PopulateAvailableSchematicsList at 00007FFA4E26AED0
+[2022.10.07-18.42.59:774][  0]LogNativeHookManager: Display: Hooking function AFGResearchManager::PopulateResearchTreeList: Provided address: 00007FFA4E214B50, resolved address: 00007FFA4E214B50
+[2022.10.07-18.42.59:774][  0]LogNativeHookManager: Display: Successfully hooked function AFGResearchManager::PopulateResearchTreeList at 00007FFA4E214B50
+[2022.10.07-18.42.59:774][  0]LogNativeHookManager: Display: Hooking function AFGPlayerController::EnterChatMessage: Provided address: 00007FFA4E1AD580, resolved address: 00007FFA4E1AD580
+[2022.10.07-18.42.59:862][  0]LogNativeHookManager: Display: Successfully hooked function AFGPlayerController::EnterChatMessage at 00007FFA4E1AD580
+[2022.10.07-18.42.59:965][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UNetConnection::CleanUp. This adjustment: 0, virtual function table offset: 752
+[2022.10.07-18.42.59:981][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UNetConnection::CleanUp at 00007FFA4B812C20 to function implementation at 00007FFA59429850
+[2022.10.07-18.42.59:981][  0]LogNativeHookManager: Display: Hooking function UNetConnection::CleanUp: Provided address: 00007FFA4B812C20, resolved address: 00007FFA59429850
+[2022.10.07-18.42.59:981][  0]LogNativeHookManager: Display: Successfully hooked function UNetConnection::CleanUp at 00007FFA59429850
+[2022.10.07-18.42.59:981][  0]LogNativeHookManager: Display: Hooking function UWorld::WelcomePlayer: Provided address: 00007FFA598A9F50, resolved address: 00007FFA598A9F50
+[2022.10.07-18.42.59:981][  0]LogNativeHookManager: Display: Successfully hooked function UWorld::WelcomePlayer at 00007FFA598A9F50
+[2022.10.07-18.43.00:055][  0]LogNativeHookManager: Display: Hooking function UPendingNetGame::SendInitialJoin: Provided address: 00007FFA59551D10, resolved address: 00007FFA59551D10
+[2022.10.07-18.43.00:055][  0]LogNativeHookManager: Display: Successfully hooked function UPendingNetGame::SendInitialJoin at 00007FFA59551D10
+[2022.10.07-18.43.00:055][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UWorld::NotifyControlMessage. This adjustment: 0, virtual function table offset: 24
+[2022.10.07-18.43.00:100][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UWorld::NotifyControlMessage at 00007FFA4B812C2C to function implementation at 00007FFA598970B0
+[2022.10.07-18.43.00:100][  0]LogNativeHookManager: Display: Hooking function UWorld::NotifyControlMessage: Provided address: 00007FFA4B812C2C, resolved address: 00007FFA598970B0
+[2022.10.07-18.43.00:100][  0]LogNativeHookManager: Display: Successfully hooked function UWorld::NotifyControlMessage at 00007FFA598970B0
+[2022.10.07-18.43.00:100][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UPendingNetGame::NotifyControlMessage. This adjustment: 0, virtual function table offset: 24
+[2022.10.07-18.43.00:100][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UPendingNetGame::NotifyControlMessage at 00007FFA4B812C2C to function implementation at 00007FFA5954AC50
+[2022.10.07-18.43.00:100][  0]LogNativeHookManager: Display: Hooking function UPendingNetGame::NotifyControlMessage: Provided address: 00007FFA4B812C2C, resolved address: 00007FFA5954AC50
+[2022.10.07-18.43.00:197][  0]LogNativeHookManager: Display: Successfully hooked function UPendingNetGame::NotifyControlMessage at 00007FFA5954AC50
+[2022.10.07-18.43.00:395][  0]LogNativeHookManager: Display: Attempting to resolve virtual function ULocalPlayer::GetNickname. This adjustment: 0, virtual function table offset: 688
+[2022.10.07-18.43.00:478][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk ULocalPlayer::GetNickname at 00007FFA4B812C14 to function implementation at 00007FFA593BC040
+[2022.10.07-18.43.00:478][  0]LogNativeHookManager: Display: Hooking function ULocalPlayer::GetNickname: Provided address: 00007FFA4B812C14, resolved address: 00007FFA593BC040
+[2022.10.07-18.43.00:478][  0]LogNativeHookManager: Display: Successfully hooked function ULocalPlayer::GetNickname at 00007FFA593BC040
+[2022.10.07-18.43.00:478][  0]LogNativeHookManager: Display: Hooking function ULocalPlayer::GetUniqueNetIdFromCachedControllerId: Provided address: 00007FFA593BE830, resolved address: 00007FFA593BE830
+[2022.10.07-18.43.00:478][  0]LogNativeHookManager: Display: Successfully hooked function ULocalPlayer::GetUniqueNetIdFromCachedControllerId at 00007FFA593BE830
+[2022.10.07-18.43.01:720][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UFGSaveSystem::LoadSaveFile. This adjustment: 0, virtual function table offset: 48
+[2022.10.07-18.43.01:720][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UFGSaveSystem::LoadSaveFile at 00007FFA4B812C0C to function implementation at 00007FFA4E264410
+[2022.10.07-18.43.01:720][  0]LogNativeHookManager: Display: Hooking function UFGSaveSystem::LoadSaveFile: Provided address: 00007FFA4B812C0C, resolved address: 00007FFA4E264410
+[2022.10.07-18.43.01:720][  0]LogNativeHookManager: Display: Successfully hooked function UFGSaveSystem::LoadSaveFile at 00007FFA4E264410
+[2022.10.07-18.43.01:784][  0]LogNativeHookManager: Display: Hooking function AFGAdminInterface::LoadGame: Provided address: 00007FFA4DFFABC0, resolved address: 00007FFA4DFFABC0
+[2022.10.07-18.43.01:784][  0]LogNativeHookManager: Display: Successfully hooked function AFGAdminInterface::LoadGame at 00007FFA4DFFABC0
+[2022.10.07-18.43.01:785][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UFGCheatManager::PlayerFly. This adjustment: 0, virtual function table offset: 1760
+[2022.10.07-18.43.01:822][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UFGCheatManager::PlayerFly at 00007FFA4B812BF4 to function implementation at 00007FFA4E08C610
+[2022.10.07-18.43.01:822][  0]LogNativeHookManager: Display: Hooking function UFGCheatManager::PlayerFly: Provided address: 00007FFA4B812BF4, resolved address: 00007FFA4E08C610
+[2022.10.07-18.43.01:823][  0]LogNativeHookManager: Display: Successfully hooked function UFGCheatManager::PlayerFly at 00007FFA4E08C610
+[2022.10.07-18.43.01:823][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UFGCheatManager::PlayerNoClipModeOnFly. This adjustment: 0, virtual function table offset: 1800
+[2022.10.07-18.43.01:823][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UFGCheatManager::PlayerNoClipModeOnFly at 00007FFA4B812C00 to function implementation at 00007FFA4E08C700
+[2022.10.07-18.43.01:823][  0]LogNativeHookManager: Display: Hooking function UFGCheatManager::PlayerNoClipModeOnFly: Provided address: 00007FFA4B812C00, resolved address: 00007FFA4E08C700
+[2022.10.07-18.43.01:823][  0]LogNativeHookManager: Display: Successfully hooked function UFGCheatManager::PlayerNoClipModeOnFly at 00007FFA4E08C700
+[2022.10.07-18.43.01:823][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UCheatManager::Fly. This adjustment: 0, virtual function table offset: 656
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UCheatManager::Fly at 00007FFA4B812BD0 to function implementation at 00007FFA59042620
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Hooking function UCheatManager::Fly: Provided address: 00007FFA4B812BD0, resolved address: 00007FFA59042620
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Successfully hooked function UCheatManager::Fly at 00007FFA59042620
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UCheatManager::Walk. This adjustment: 0, virtual function table offset: 664
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UCheatManager::Walk at 00007FFA4B812BDC to function implementation at 00007FFA5905EAF0
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Hooking function UCheatManager::Walk: Provided address: 00007FFA4B812BDC, resolved address: 00007FFA5905EAF0
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Successfully hooked function UCheatManager::Walk at 00007FFA5905EAF0
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Attempting to resolve virtual function UCheatManager::Ghost. This adjustment: 0, virtual function table offset: 672
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Successfully resolved virtual function thunk UCheatManager::Ghost at 00007FFA4B812BE8 to function implementation at 00007FFA59048A20
+[2022.10.07-18.43.01:902][  0]LogNativeHookManager: Display: Hooking function UCheatManager::Ghost: Provided address: 00007FFA4B812BE8, resolved address: 00007FFA59048A20
+[2022.10.07-18.43.01:903][  0]LogNativeHookManager: Display: Successfully hooked function UCheatManager::Ghost at 00007FFA59048A20
+[2022.10.07-18.43.01:903][  0]LogSatisfactoryModLoader: Display: Registering global subsystems...
+[2022.10.07-18.43.01:903][  0]LogModNetworkHandler: Display: Registering message type SML:1
+[2022.10.07-18.43.01:903][  0]LogSatisfactoryModLoader: Display: Initialization finished!
+[2022.10.07-18.43.01:903][  0]LogAkAudio: Loading intitial data.
+[2022.10.07-18.43.05:011][  0]LogAkAudio: Loading intitial data complete, took: 3.108771
+[2022.10.07-18.43.05:052][  0]LogInit: OnPostEngineInit has been broadcasted successfully.
+[2022.10.07-18.43.07:687][  0]LogInit: Display: Starting Game.
+[2022.10.07-18.43.07:961][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/Map_MenuScene_Update_06?Name=Player
+[2022.10.07-18.43.08:790][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/Map_MenuScene_Update_06?Name=Player
+[2022.10.07-18.43.08:790][  0]LogWorld: BeginTearingDown for /Temp/Untitled_23
+[2022.10.07-18.43.09:901][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-18.43.11:357][  0]LogAudio: Display: Waited 35.574997 ms for audio thread.
+[2022.10.07-18.43.11:393][  0]LogAudio: Display: Waited 71.584999 ms for audio thread.
+[2022.10.07-18.43.11:429][  0]LogAudio: Display: Waited 107.556702 ms for audio thread.
+[2022.10.07-18.43.11:465][  0]LogAudio: Display: Waited 143.507401 ms for audio thread.
+[2022.10.07-18.43.11:501][  0]LogAudio: Display: Waited 179.492798 ms for audio thread.
+[2022.10.07-18.43.11:537][  0]LogAudio: Display: Waited 215.469803 ms for audio thread.
+[2022.10.07-18.43.11:573][  0]LogAudio: Display: Waited 251.066711 ms for audio thread.
+[2022.10.07-18.43.11:609][  0]LogAudio: Display: Waited 287.057983 ms for audio thread.
+[2022.10.07-18.43.11:644][  0]LogAudio: Display: Waited 322.047791 ms for audio thread.
+[2022.10.07-18.43.11:680][  0]LogAudio: Display: Waited 358.032623 ms for audio thread.
+[2022.10.07-18.43.11:716][  0]LogAudio: Display: Waited 394.028381 ms for audio thread.
+[2022.10.07-18.43.11:752][  0]LogAudio: Display: Waited 430.080811 ms for audio thread.
+[2022.10.07-18.43.11:788][  0]LogAudio: Display: Waited 465.980713 ms for audio thread.
+[2022.10.07-18.43.11:824][  0]LogAudio: Display: Waited 501.938507 ms for audio thread.
+[2022.10.07-18.43.11:860][  0]LogAudio: Display: Waited 537.946899 ms for audio thread.
+[2022.10.07-18.43.11:896][  0]LogAudio: Display: Waited 573.925903 ms for audio thread.
+[2022.10.07-18.43.11:932][  0]LogAudio: Display: Waited 609.902344 ms for audio thread.
+[2022.10.07-18.43.11:968][  0]LogAudio: Display: Waited 645.880005 ms for audio thread.
+[2022.10.07-18.43.12:004][  0]LogAudio: Display: Waited 681.828369 ms for audio thread.
+[2022.10.07-18.43.12:040][  0]LogAudio: Display: Waited 717.804504 ms for audio thread.
+[2022.10.07-18.43.12:076][  0]LogAudio: Display: Waited 753.790955 ms for audio thread.
+[2022.10.07-18.43.12:111][  0]LogAudio: Display: Waited 788.798828 ms for audio thread.
+[2022.10.07-18.43.12:146][  0]LogAudio: Display: Waited 823.821777 ms for audio thread.
+[2022.10.07-18.43.12:182][  0]LogAudio: Display: Waited 859.808105 ms for audio thread.
+[2022.10.07-18.43.12:218][  0]LogAudio: Display: Waited 895.799866 ms for audio thread.
+[2022.10.07-18.43.12:254][  0]LogAudio: Display: Waited 931.764587 ms for audio thread.
+[2022.10.07-18.43.12:289][  0]LogAudio: Display: Waited 967.358521 ms for audio thread.
+[2022.10.07-18.43.12:325][  0]LogAudio: Display: Waited 1003.296875 ms for audio thread.
+[2022.10.07-18.43.12:361][  0]LogAudio: Display: Waited 1039.285522 ms for audio thread.
+[2022.10.07-18.43.12:397][  0]LogAudio: Display: Waited 1075.253418 ms for audio thread.
+[2022.10.07-18.43.12:402][  0]LogAudio: Display: Waited 1081.071777 ms for audio thread.
+[2022.10.07-18.43.13:056][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-18.43.18:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2022.10.07-18.43.18:830][  0]LogTaskGraph: Warning: Task graph took  57.23ms for RHIT to recieve broadcast and do processing.
+[2022.10.07-18.43.18:830][  0]LogTaskGraph: Warning: Task graph took  57.78ms for RT to recieve broadcast and do processing.
+[2022.10.07-18.43.18:830][  0]LogTaskGraph: Warning: Task graph took  57.84ms for AudioT to recieve broadcast and do processing.
+[2022.10.07-18.43.18:830][  0]LogTaskGraph: Warning: Task graph took  57.85ms to broadcast.
+[2022.10.07-18.43.20:373][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.43.20:373][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'mm1', will use default material.
+[2022.10.07-18.43.20:373][  0]LogMaterial: Can't compile mm1 with cooked content, will use default material instead
+[2022.10.07-18.43.20:373][  0]LogMaterial: Warning: [AssetLog] /Game/FactoryGame/Prototype/Buildable/FoundationRework/MidLow/mm1.mm1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.43.24:944][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_MenuScene_Update_06'.
+[2022.10.07-18.43.26:479][  0]LogAIModule: Creating AISystem for world Map_MenuScene_Update_06
+[2022.10.07-18.43.27:286][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2022.10.07-18.43.27:446][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/MenuScenes/Menu_Tile_X5_Y2) is flushing async loading
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_01] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_01] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_01] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_01] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_05] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_05] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_05] Mesh is marked for CPU read.
+[2022.10.07-18.43.42:827][  0]LogStaticMesh: [CliffPillar_05] Mesh is marked for CPU read.
+[2022.10.07-18.43.45:775][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/Map_MenuScene_Update_06.Map_MenuScene_Update_06 up for play (max tick rate 0) at 2022.10.07-15.43.45
+[2022.10.07-18.45.49:533][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.45.49:533][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'Material_Green', will use default material.
+[2022.10.07-18.45.49:533][  0]LogMaterial: Can't compile Material_Green with cooked content, will use default material instead
+[2022.10.07-18.45.49:533][  0]LogMaterial: Warning: [AssetLog] /OtherComp3/Material/Material_Green.Material_Green: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.45.49:533][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.45.49:533][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'Material_Red', will use default material.
+[2022.10.07-18.45.49:533][  0]LogMaterial: Can't compile Material_Red with cooked content, will use default material instead
+[2022.10.07-18.45.49:533][  0]LogMaterial: Warning: [AssetLog] /OtherComp3/Material/Material_Red.Material_Red: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.45.52:540][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.07-18.45.52:540][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'GasFlower', will use default material.
+[2022.10.07-18.45.52:540][  0]LogMaterial: Can't compile GasFlower with cooked content, will use default material instead
+[2022.10.07-18.45.52:540][  0]LogMaterial: Warning: [AssetLog] /OtherComp3/Material/GasFlower.GasFlower: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 96MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 112MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 128MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 144MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 160MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 176MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 192MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 208MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 224MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 240MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 256MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 272MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 288MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 304MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 320MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 336MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 352MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 368MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 384MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 400MB
+
+[2022.10.07-18.47.19:075][  0]LogPakFile: Precache HighWater 416MB
+
+[2022.10.07-18.47.19:075][  0]LogSatisfactoryModLoader: Discovered 2 world modules of class MenuWorldModule
+[2022.10.07-18.47.19:075][  0]LogSatisfactoryModLoader: Dispatching lifecycle event CONSTRUCTION to world Map_MenuScene_Update_06 modules
+[2022.10.07-18.47.19:075][  0]LogSatisfactoryModLoader: Dispatching lifecycle event INITIALIZATION to world Map_MenuScene_Update_06 modules
+[2022.10.07-18.47.19:187][  0]LogWorld: Bringing up level for play took: 215.391867
+[2022.10.07-18.47.20:653][  0]LogGame: Warning: Player start 'PlayerStart_1' has no tag.
+[2022.10.07-18.47.21:886][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.07-18.47.21:886][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.07-18.47.21:886][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.07-18.47.29:979][  0]LogSlate: Took 0.146627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.07-18.47.31:090][  0]LogSlate: Took 0.178644 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2022.10.07-18.47.32:470][  0]LogConfig: Warning: Trying to get int option value(conveyor.UseExperimental) that doesn't exist in applied or default state
+[2022.10.07-18.47.33:011][  0]LogGame: Warning: Didn't find any level bounds actor for level Map_MenuScene_Update_06, calculating level bounds
+[2022.10.07-18.47.33:126][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.07-18.47.33:170][  0]LogRRDL: Display: URRDLWorldSubsystem::WorldBeginPlay Called
+[2022.10.07-18.47.33:326][  0]LogSatisfactoryModLoader: Dispatching lifecycle event POST_INITIALIZATION to world Map_MenuScene_Update_06 modules
+[2022.10.07-18.47.33:338][  0]LogLoad: Took 264.548003 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/Map_MenuScene_Update_06)
+[2022.10.07-18.47.33:396][  0]LogGame: EOS Metrics, starting service.
+[2022.10.07-18.47.33:396][  0]LogGame: Warning: EOS metrics, invalid handle.
+[2022.10.07-18.47.33:396][  0]LogGame: Telemetry, starting service.
+[2022.10.07-18.47.33:893][  0]LogGame: Telemetry instance started with a valid platform 'steam'.
+[2022.10.07-18.47.34:266][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.07-18.47.34:266][  0]LogLoad: (Engine Initialization) Total time: 1347.58 seconds
+[2022.10.07-18.47.35:303][  0]LogRawInputWindows: Warning: Found device 7 devices
+[2022.10.07-18.47.35:304][  0]LogRawInputWindows: Warning: Found device 7 devices
+[2022.10.07-18.47.35:304][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2022.10.07-18.47.35:304][  0]LogRawInputWindows: Warning: Found device 7 devices
+[2022.10.07-18.47.35:304][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2022.10.07-18.47.37:833][  0]LogContentStreaming: Texture pool size now 700 MB
+[2022.10.07-18.47.40:603][  1]LogOnline: Warning: OSS: EOSSDK-LogEOSP2P: NAT Detection failed, unable to resolve host
+[2022.10.07-18.47.42:953][  1]LogSlate: Took 0.114760 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2022.10.07-18.47.43:149][  1]LogSlate: Took 0.188419 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2022.10.07-18.47.48:618][594]LogOnline: Warning: OSS: EOSSDK-LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.07-18.47.49:039][690]LogOnlineIdentity: OSS: Starting account connection GUI
+[2022.10.07-18.47.49:074][690]LogOnline: OSS: BroadcastAccountConnectionStepResult: EEosAccountConnectionResult::Close
+[2022.10.07-18.47.50:846][368]LogOnlineIdentity: OSS: Regestring NotifyOnPresenceChanged and got handle: 18 on the user manager at 0000018533C220E0
+[2022.10.07-18.47.50:846][368]LogOnlineIdentity: OSS: Adding notify on auth time out for user: 0
+[2022.10.07-18.47.50:912][368]LogOnlineIdentity: OSS: Adding notify on auth time out for user: 0
+[2022.10.07-18.47.50:949][368]LogGame: Login status changed from NotLoggedIn to LoggedIn
+[2022.10.07-18.47.50:949][368]LogOnlineIdentity: OSS: Attempting GetEncryptedAppTicket for Steam.
+[2022.10.07-18.47.51:466][428]LogOnlineIdentity: STEAM: Got Steam Login Token with length 126
+[2022.10.07-18.47.51:467][428]LogOnlineIdentity: OSS: Got Steam Login Token result: True
+[2022.10.07-18.47.51:468][429]LogOnlineIdentity: OSS: Calling EOS_Connect_Login
+[2022.10.07-18.47.51:858][539]LogOnlineIdentity: OSS: Got reply from EOS_Connect_Login
+[2022.10.07-18.47.51:859][539]LogOnlineIdentity: OSS: EEosAccountConnectionResult::Success
+[2022.10.07-18.47.51:859][539]LogOnlineIdentity: OSS: Update account connection GUI with event
+[2022.10.07-18.47.51:914][539]LogOnline: OSS: BroadcastAccountConnectionStepResult: EEosAccountConnectionResult::Success
+[2022.10.07-18.47.52:004][541]LogOnline: Error: OSS: EOS-OSS: QueryPresence() for user (e2736d07a1cc4f55992df836a65d6fb9) failed with result code (EOS_Success)
+[2022.10.07-18.47.52:262][730]LogOnlineIdentity: OSS: Presence update notification
+[2022.10.07-18.47.52:262][730]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2022.10.07-18.47.52:297][762]LogOnlineIdentity: OSS: Presence update notification
+[2022.10.07-18.47.52:297][762]LogOnlineIdentity: OSS: The presence udpate was for user: d78f6aea35bb44ee8f76068c59541c5f
+[2022.10.07-18.47.52:297][762]LogOnlineIdentity: OSS: Seding notify of presence update for: d78f6aea35bb44ee8f76068c59541c5f
+[2022.10.07-18.48.03:225][380]LogOnlineIdentity: OSS: Presence update notification
+[2022.10.07-18.48.03:225][380]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2022.10.07-18.48.09:022][356]LogStreaming: Display: Suspending async loading (1)
+[2022.10.07-18.48.09:037][356]LogStreaming: Display: Resuming async loading (0)
+[2022.10.07-18.48.10:404][357]LogRenderer: Reallocating scene render targets to support 1368x716 Format 10 NumSamples 1 (Frame:1).
+[2022.10.07-18.48.13:277][358]LogStaticMesh: Allocated 512x446x64 distance field atlas = 27.9Mb, with 335 objects containing 20.5Mb backing data
+[2022.10.07-18.48.17:260][358]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.10.07-18.48.21:757][451]LogStreaming: Display: Suspending async loading (1)
+[2022.10.07-18.48.22:724][451]LogStreaming: Display: Resuming async loading (0)
+[2022.10.07-18.48.22:750][452]LogRenderer: Reallocating scene render targets to support 1384x716 Format 10 NumSamples 1 (Frame:97).
+[2022.10.07-18.48.26:079][453]LogStreaming: Display: Suspending async loading (1)
+[2022.10.07-18.48.28:360][453]LogStreaming: Display: Resuming async loading (0)
+[2022.10.07-18.50.31:143][953]LogAudio: Display: Waited 35.588699 ms for audio thread.
+[2022.10.07-18.50.31:168][953]LogAudio: Display: Waited 61.285297 ms for audio thread.
