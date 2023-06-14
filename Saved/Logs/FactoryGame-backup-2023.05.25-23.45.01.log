@@ -1,0 +1,1570 @@
+﻿Log file open, 05/25/23 20:44:28
+LogInit: Display: Running engine for game: FactoryGame
+LogInit: Display: Project file not found: E:/SteamLibrary/steamapps/common/Satisfactory/FactoryGame/FactoryGame.uproject
+LogInit: Display: 	Attempting to find via project info helper.
+LogUProjectInfo: Found projects:
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=870482
+LogPakFile: PakFile PathHashIndexSize=807552
+LogPakFile: PakFile FullDirectoryIndexSize=2276059
+LogPakFile: OnPakFileMounted2Time == 0.000009
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 13 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+Message dialog closed, result: Yes, title: Missing Plugin, text: This project requires the 'ModularUI' plugin, which has a missing dependency on the 'SML' plugin.
+
+Would you like to disable it?
+
+If you do, you will no longer be able to open any assets created with it. If not, the application will close.
+LogPluginManager: Display: Disabled plugin 'ModularUI', continuing.
+Message dialog closed, result: Yes, title: Missing Plugin, text: This project requires the 'RefinedRDLib' plugin, which has a missing dependency on the 'SML' plugin.
+
+Would you like to disable it?
+
+If you do, you will no longer be able to open any assets created with it. If not, the application will close.
+LogPluginManager: Display: Disabled plugin 'RefinedRDLib', continuing.
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin DTLSHandlerComponent
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin FullBodyIK
+LogPluginManager: Mounting plugin DSTelemetry
+LogPluginManager: Mounting plugin AbstractInstance
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ModularUI
+LogPluginManager: Mounting plugin RefinedRDLib
+LogPakFile: PakFile PrimaryIndexSize=11109
+LogPakFile: PakFile PathHashIndexSize=10976
+LogPakFile: PakFile FullDirectoryIndexSize=28332
+LogPakFile: OnPakFileMounted2Time == 0.000010
+LogPakFile: PakFile PrimaryIndexSize=2016
+LogPakFile: PakFile PathHashIndexSize=1937
+LogPakFile: PakFile FullDirectoryIndexSize=5431
+LogPakFile: OnPakFileMounted2Time == 0.000010
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Creating online subsystem instance for: EOS
+LogOnline: OSS: FOnlineSubsystemEOS: Init success.
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: STEAM
+LogGenericPlatformMisc: Error: SetEnvironmentVar not implemented for this platform: SteamAppId = 526870
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 526870] Client API initialized 1
+LogOnline: STEAM: Initializing SteamNetworking Layer
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Build: ++FactoryGame+rel-main-0.7.0-CL-211839
+LogInit: Engine Version: 4.26.2-211839+++FactoryGame+rel-main-0.7.0
+LogInit: Compatible Engine Version: 4.26.2-211839+++FactoryGame+rel-main-0.7.0
+LogInit: Net CL: 211839
+LogInit: OS: Windows 10 (Release 2009) (), CPU:         Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Dec  8 2022 23:06:27
+LogInit: Compiled with Visual C++: 19.34.31933.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-0.7.0
+LogInit: Command Line:  -NO_EOS_OVERLAY
+LogInit: Base Directory: E:/SteamLibrary/steamapps/common/Satisfactory/Engine/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 1
+LogInit: Launcher File: E:/SteamLibrary/steamapps/common/Satisfactory/launcher_id
+LogInit: Launcher ID: steam
+LogInit: Launcher Artifact: 
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+[2023.05.25-23.44.49:044][  0]LogOnline: Warning: STEAM: Failed to obtain steam user stats, user: (STEAM)Redgabriel_13 [0x1E0AE9C5EF0] has no stats entries
+[2023.05.25-23.44.49:045][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2023.05.25-23.44.49:045][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2023.05.25-23.44.49:045][  0]LogHAL: Display: Platform has ~ 12 GB [12841185280 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.25-23.44.49:045][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2023.05.25-23.44.49:045][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.25-23.44.49:045][  0]LogInit: Computer: DESKTOP-C496C71
+[2023.05.25-23.44.49:045][  0]LogInit: User: red
+[2023.05.25-23.44.49:045][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.05.25-23.44.49:045][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.25-23.44.49:045][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2023.05.25-23.44.49:045][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2023.05.25-23.44.49:045][  0]LogMemory: Process Physical Memory: 116.34 MB used, 116.34 MB peak
+[2023.05.25-23.44.49:045][  0]LogMemory: Process Virtual Memory: 93.15 MB used, 93.15 MB peak
+[2023.05.25-23.44.49:045][  0]LogMemory: Physical Memory: 7260.03 MB used,  4986.28 MB free, 12246.31 MB total
+[2023.05.25-23.44.49:045][  0]LogMemory: Virtual Memory: 134206720.00 MB used,  11005.15 MB free, 134217728.00 MB total
+[2023.05.25-23.44.49:048][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.25-23.44.49:185][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.05.25-23.44.49:187][  0]LogInit: Overriding language with engine language configuration option (en-US-Posix).
+[2023.05.25-23.44.49:187][  0]LogInit: Overriding language with engine locale configuration option (en-US-Posix).
+[2023.05.25-23.44.49:200][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/en-US-POSIX/Engine.locres' could not be opened for reading!
+[2023.05.25-23.44.49:200][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en-US-POSIX/OnlineFramework.locres' could not be opened for reading!
+[2023.05.25-23.44.49:201][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en-US-POSIX/OnlineSubsystem.locres' could not be opened for reading!
+[2023.05.25-23.44.49:201][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en-US-POSIX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.05.25-23.44.49:201][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en-US-POSIX/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2023.05.25-23.44.49:229][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.25-23.44.49:259][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.25-23.44.49:259][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.25-23.44.49:292][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.25-23.44.49:638][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 Ti (Max supported Feature Level 12_1)
+[2023.05.25-23.44.49:638][  0]LogD3D12RHI: Adapter has 4017MB of dedicated video memory, 0MB of dedicated system memory, and 6123MB of shared system memory, 1 output[s]
+[2023.05.25-23.44.49:667][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2023.05.25-23.44.49:667][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 6123MB of shared system memory, 0 output[s]
+[2023.05.25-23.44.49:667][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.25-23.44.49:679][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.25-23.44.49:886][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2023.05.25-23.44.49:886][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2023.05.25-23.44.49:981][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.25-23.44.49:981][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.25-23.44.49:986][  0]LogD3D12RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.25-23.44.49:986][  0]LogWindows: EnumDisplayDevices:
+[2023.05.25-23.44.49:986][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2023.05.25-23.44.49:986][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2023.05.25-23.44.49:987][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2023.05.25-23.44.49:987][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2023.05.25-23.44.49:987][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.25-23.44.49:987][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2023.05.25-23.44.49:987][  0]LogD3D12RHI:   Driver Version: 531.68 (internal:31.0.15.3168, unified:531.68)
+[2023.05.25-23.44.49:987][  0]LogD3D12RHI:      Driver Date: 4-13-2023
+[2023.05.25-23.44.49:987][  0]LogRHI: Texture pool is 2151 MB (70% of 3073 MB)
+[2023.05.25-23.44.49:987][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.25-23.44.49:987][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.25-23.44.50:009][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.25-23.44.50:009][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.25-23.44.50:025][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.25-23.44.50:026][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.25-23.44.50:101][  0]LogInit: Overriding language with engine language configuration option (en-US-Posix).
+[2023.05.25-23.44.50:101][  0]LogInit: Overriding language with engine locale configuration option (en-US-Posix).
+[2023.05.25-23.44.50:119][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/Game/en/Game.locres' could not be opened for reading!
+[2023.05.25-23.44.50:119][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/InputKeys/en/InputKeys.locres' could not be opened for reading!
+[2023.05.25-23.44.50:125][  0]LogTextLocalizationManager: Compacting localization data took   1.38ms
+[2023.05.25-23.44.50:283][  0]LogAssetRegistry: FAssetRegistry took 0.1557 seconds to start up
+[2023.05.25-23.44.50:309][  0]LogEnum: Warning: EnumRedirect for enum ECachedNatType maps 'ECachedNATType::CNT_MAX' to invalid value 'ECachedNatType::CNT_MAX'!
+[2023.05.25-23.44.50:388][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.25-23.44.50:388][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 2 prioritized culture(s) in 0.000164 seconds
+[2023.05.25-23.44.50:389][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2023.05.25-23.44.50:399][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2023.05.25-23.44.50:399][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2023.05.25-23.44.50:400][  0]LogInit: Active device profile: [000001E0C19E7780][000001E0C1D889E0 49] WindowsNoEditor
+[2023.05.25-23.44.50:400][  0]LogInit: Profiles: [000001E0C19E76C0][000001E0C1D89D90 49] Windows, [000001E0C19E7780][000001E0C1D889E0 49] WindowsNoEditor, 
+[2023.05.25-23.44.50:424][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 211839, EngineNetVer: 16, GameNetVer: 0 (Checksum: 949480850)
+[2023.05.25-23.44.50:644][  0]LogMoviePlayer: Initializing movie player
+[2023.05.25-23.44.50:695][  0]LogAkAudio: Wwise(R) SDK Version 2021.1.0 Build 7575. Copyright (c) 2006-2021 Audiokinetic Inc.
+[2023.05.25-23.44.50:696][  0]LogAkAudio: Wwise plug-in DLL path: E:/SteamLibrary/steamapps/common/Satisfactory/Engine/Plugins/Wwise/ThirdParty/x64_vc160/Release/bin/
+[2023.05.25-23.44.50:696][  0]LogAkAudio: Wwise successfully initialized.
+[2023.05.25-23.44.50:697][  0]LogAkAudio: Initialization complete.
+[2023.05.25-23.44.50:697][  0]LogInit: Audiokinetic Audio Device initialized.
+[2023.05.25-23.44.50:697][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTree/Icons/Titlebar_WwiseAppIcon requested by async loading code. NameToLoad: /Wwise/WwiseTree/Icons/Titlebar_WwiseAppIcon
+[2023.05.25-23.44.50:697][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Acoustic_Portal requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Acoustic_Portal
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Acoustic_Portal_Explorer requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Acoustic_Portal_Explorer
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Spatial_Audio_Volume requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Spatial_Audio_Volume
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Spatial_Audio_Volume_Explorer requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Spatial_Audio_Volume_Explorer
+[2023.05.25-23.44.50:710][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.50:711][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Reverb_Volume requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Reverb_Volume
+[2023.05.25-23.44.50:711][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.50:711][  0]LogStreaming: Error: Couldn't find file for package /Wwise/WwiseTypes/AK_Reverb_Volume_Explorer requested by async loading code. NameToLoad: /Wwise/WwiseTypes/AK_Reverb_Volume_Explorer
+[2023.05.25-23.44.50:711][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.05.25-23.44.51:444][  0]LogPakFile: Precache HighWater 16MB
+
+[2023.05.25-23.44.51:444][  0]LogPakFile: Precache HighWater 32MB
+
+[2023.05.25-23.44.51:444][  0]LogPakFile: Precache HighWater 48MB
+
+[2023.05.25-23.44.51:444][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-23.44.51:483][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__FGDockingStationInfo. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.05.25-23.44.51:492][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-23.44.52:250][  0]LogStaticMesh: [SM_SpitterMine_01] Mesh is marked for CPU read.
+[2023.05.25-23.44.52:533][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT1 requested by async loading code. NameToLoad: /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT1
+[2023.05.25-23.44.52:534][  0]LogStreaming: Error: Found 1 dependent packages...
+[2023.05.25-23.44.52:534][  0]LogStreaming: Error:   /Game/FactoryGame/Prototype/WAT/Desc_WAT1
+[2023.05.25-23.44.52:537][  0]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT2 requested by async loading code. NameToLoad: /Game/FactoryGame/Schematics/Story/Schematic_ObjectScanner_WAT2
+[2023.05.25-23.44.52:537][  0]LogStreaming: Error: Found 1 dependent packages...
+[2023.05.25-23.44.52:537][  0]LogStreaming: Error:   /Game/FactoryGame/Prototype/WAT/Desc_WAT2
+[2023.05.25-23.44.52:543][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__FGSimulatedWheeledVehicle. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.05.25-23.44.52:844][  0]LogPakFile: Precache HighWater 64MB
+
+[2023.05.25-23.44.52:844][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-23.44.52:859][  0]LogStringTable: Warning: Failed to find string table entry for 'ST_Options' 'QualityLow'. Did you forget to add a string table redirector?
+[2023.05.25-23.44.52:859][  0]LogStringTable: Warning: Failed to find string table entry for 'ST_Options' 'QualityMedium'. Did you forget to add a string table redirector?
+[2023.05.25-23.44.52:859][  0]LogStringTable: Warning: Failed to find string table entry for 'ST_Options' 'QualityHigh'. Did you forget to add a string table redirector?
+[2023.05.25-23.44.52:859][  0]LogStringTable: Warning: Failed to find string table entry for 'ST_Options' 'QualityUltra'. Did you forget to add a string table redirector?
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 80MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 96MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 112MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 128MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 144MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 160MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 176MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 192MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 208MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 224MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 240MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 256MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 272MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 288MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 304MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 320MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 336MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 352MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 368MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 384MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 400MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 416MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 432MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 448MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 464MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 480MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 496MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 512MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 528MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 544MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 560MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 576MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 592MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 608MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 624MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 640MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 656MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 672MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 688MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 704MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 720MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 736MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 752MB
+
+[2023.05.25-23.44.56:527][  0]LogPakFile: Precache HighWater 768MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 784MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 800MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 816MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 832MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 848MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 864MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 880MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 896MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 912MB
+
+[2023.05.25-23.44.56:528][  0]LogPakFile: Precache HighWater 928MB
+
+[2023.05.25-23.44.56:528][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-23.44.56:528][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-23.44.56:898][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__FGWheeledVehicleInfo. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.05.25-23.44.57:378][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.25-23.44.57:379][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.25-23.44.57:409][  0]LogWindows: Failed to load 'E:/SteamLibrary/steamapps/common/Satisfactory/FactoryGame/Mods/RefinedRDLib/Binaries/Win64/FactoryGame-RefinedRDLib-Win64-Shipping.dll' (GetLastError=126)
+[2023.05.25-23.44.57:409][  0]LogWindows:   Missing import: FactoryGame-SML-Win64-Shipping.dll
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: ../../../Engine/Binaries/Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: ../../../FactoryGame/Binaries/Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\FactoryGame\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ReplicationGraph\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\PacketHandlers\DTLSHandlerComponent\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Wwise\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Editor\GeometryMode\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ApexDestruction\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\BlueprintStats\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineFramework\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystem\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemUtils\Binaries\Win64
+[2023.05.25-23.44.57:409][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Compositing\LensDistortion\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\WindowsDeviceProfileSelector\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\Steam\SteamController\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\Steam\SteamShared\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\RawInput\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\MfMedia\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemSteam\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemEOS\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\SignificanceManager\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Editor\EditorScriptingUtilities\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Tests\EditorTests\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Tests\FbxAutomationTestBuilder\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Tests\FunctionalTestingEditor\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Tests\RuntimeTests\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Tests\ScreenshotTools\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\Landmass\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ControlRig\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MovieScene\LevelSequenceEditor\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\FullBodyIK\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\DSTelemetry\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\FactoryGame\Plugins\AbstractInstance\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\FactoryGame\Plugins\CSSEditorToolsExtension\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\2D\Paper2D\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\AI\AISupport\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\AI\EnvironmentQueryEditor\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Blendables\LightPropagationVolume\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Developer\AnimationSharing\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Developer\PluginUtils\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\PropertyAccess\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Developer\UObjectPlugin\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Editor\AssetManagerEditor\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Editor\FacialAnimation\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Editor\SpeedTreeImporter\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Enterprise\DatasmithContent\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Enterprise\VariantManagerContent\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\AlembicImporter\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryCache\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\AutomationUtils\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\BackChannel\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosClothEditor\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosCloth\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosEditor\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PlanarCutPlugin\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\EditableMesh\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryCollectionPlugin\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\GeometryProcessing\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ProceduralMeshComponent\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosSolverPlugin\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\ChaosNiagara\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\FX\Niagara\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\CharacterAI\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\MotoSynth\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Experimental\PlatformCrypto\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MagicLeap\MagicLeapPassableWorld\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MagicLeap\MLSDK\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\ImgMedia\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\MediaCompositing\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\WmfMedia\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MeshPainting\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Messaging\TcpMessaging\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Messaging\UdpMessaging\Binaries\Win64
+[2023.05.25-23.44.57:410][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MovieScene\ActorSequence\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MovieScene\MatineeToLevelSequence\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\MovieScene\TemplateSequence\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Online\OnlineSubsystemNull\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Portal\LauncherChunkInstaller\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ActorLayerUtilities\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AppleImageUtils\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AssetTags\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AudioCapture\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\CableComponent\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ChunkDownloader\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\CustomMeshComponent\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\GooglePAD\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\PhysXVehicles\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\RuntimePhysXCooking\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\SoundFields\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\Synthesis\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\WebMMoviePlayer\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Media\WebMMedia\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\Engine\Plugins\Runtime\WindowsMoviePlayer\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogWindows:   Looked in: E:\SteamLibrary\steamapps\common\Satisfactory\FactoryGame\Mods\RefinedRDLib\Binaries\Win64
+[2023.05.25-23.44.57:411][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'E:/SteamLibrary/steamapps/common/Satisfactory/FactoryGame/Mods/RefinedRDLib/Binaries/Win64/FactoryGame-RefinedRDLib-Win64-Shipping.dll' because the file couldn't be loaded by the OS.
+[2023.05.25-23.44.58:392][  0]Message dialog closed, result: Ok, title: Message, text: Plugin 'RefinedRDLib' failed to load because module 'RefinedRDLib' could not be loaded.  There may be an operating system error or the module may not be properly set up.
+[2023.05.25-23.44.58:392][  0]LogCore: Engine exit requested (reason: EngineExit() was called)
+[2023.05.25-23.44.58:392][  0]LogSlate: Request Window 'Satisfactory  ' being destroyed
+[2023.05.25-23.44.58:392][  0]LogSlate: Window 'Satisfactory  ' being destroyed
+[2023.05.25-23.44.58:591][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.25-23.44.58:598][  0]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.25-23.44.58:598][  0]LogExit: Preparing to exit.
+[2023.05.25-23.44.58:598][  0]LogMoviePlayer: Shutting down movie player
+[2023.05.25-23.44.58:626][  0]LogUObjectArray: CloseDisregardForGC: 87951/87951 objects in disregard for GC pool
+[2023.05.25-23.44.58:633][  0]LogDeviceProfile: Device profile begin destroy: [000001E0C19E76C0] Windows
+[2023.05.25-23.44.58:633][  0]LogDeviceProfile: Device profile begin destroy: [000001E0C19E7900] Default__DeviceProfile
+[2023.05.25-23.44.58:633][  0]LogDeviceProfile: Device profile begin destroy: [000001E0C19E7780] WindowsNoEditor
+[2023.05.25-23.44.58:636][  0]LogOnline: Error: OSS: Leaderboards Interface Requested
+[2023.05.25-23.44.58:636][  0]LogOnline: Error: OSS: Leaderboards Interface Requested
+[2023.05.25-23.44.58:700][  0]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.25-23.44.58:929][  0]LogExit: Object subsystem successfully closed.
+[2023.05.25-23.44.58:952][  0]LogModuleManager: Shutting down and abandoning module Synthesis (268)
+[2023.05.25-23.44.58:952][  0]LogModuleManager: Shutting down and abandoning module GooglePAD (266)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (264)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module CableComponent (262)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AudioCapture (260)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (259)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AssetTags (256)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtils (254)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (252)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module TemplateSequence (248)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module MediaCompositing (246)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module ImgMedia (244)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (242)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module MotoSynth (240)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module ChaosNiagara (238)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (236)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (234)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module EditableMesh (232)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (231)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module MeshConversion (228)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module DynamicMesh (226)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (224)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module GeometricObjects (222)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module BackChannel (220)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AutomationUtils (218)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (216)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module GeometryCache (214)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module UObjectPlugin (212)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module DSTelemetry (210)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module FullBodyIK (208)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module Landmass (206)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module RawInput (204)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module SteamController (202)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module LoginFlow (200)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (198)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module Rejoin (196)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module Hotfix (194)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module PatchCheck (192)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module Lobby (190)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module Party (188)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module Qos (186)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module DTLSHandlerComponent (184)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module FactoryGame (182)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (180)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (178)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module SoundFields (176)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (174)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module ActorSequence (170)
+[2023.05.25-23.44.58:953][  0]LogModuleManager: Shutting down and abandoning module UdpMessaging (168)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module TcpMessaging (166)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (164)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (162)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module Niagara (160)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module SignalProcessing (159)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module NiagaraCore (156)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module FacialAnimation (154)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module AnimationSharing (152)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (150)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module Paper2D (148)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module AbstractInstance (146)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module ControlRig (144)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module LevelSequence (143)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module SignificanceManager (140)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module ApexDestruction (138)
+[2023.05.25-23.44.58:954][  0]LogModuleManager: Shutting down and abandoning module AkAudio (136)
+[2023.05.25-23.44.58:960][  0]LogInit: Audiokinetic Audio Device terminated.
+[2023.05.25-23.44.58:960][  0]LogModuleManager: Shutting down and abandoning module ReplicationGraph (134)
+[2023.05.25-23.44.58:960][  0]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (132)
+[2023.05.25-23.44.58:973][  0]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (130)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (128)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module PacketHandler (126)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (124)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module MediaAssets (122)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module Overlay (120)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module UMG (118)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module Slate (116)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module SlateCore (114)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module MRMesh (112)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module Messaging (110)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (108)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module XAudio2 (106)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module Networking (104)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module Core (102)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module D3D12RHI (96)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module InputCore (94)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module PhysXCooking (92)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module Chaos (90)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (88)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (87)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module AVEncoder (86)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module ChunkDownloader (80)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.05.25-23.44.58:974][  0]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2023.05.25-23.44.58:975][  0]LogModuleManager: Shutting down and abandoning module Media (75)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (66)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module NiagaraShader (64)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module AISupportModule (56)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (54)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module LensDistortion (52)
+[2023.05.25-23.44.58:976][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (48)
+[2023.05.25-23.44.58:976][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.05.25-23.44.58:977][  0]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2023.05.25-23.44.58:977][  0]LogSteamShared: Unloading the Steam API...
+[2023.05.25-23.44.58:981][  0]LogOnline: Warning: OSS: EOSSDK-LogEOSP2P: NAT Detection failed, unable to resolve host
+[2023.05.25-23.44.58:981][  0]LogOnline: Error: OSS: EOSSDK-LogEOSAnalytics: FinalizeInit did not occurr due to Tick happening during shutdown.
+[2023.05.25-23.45.00:294][  0]LogOnline: OSS: Destroying FUserManagerEOS at 000001E0AE10A060
+[2023.05.25-23.45.00:829][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.05.25-23.45.00:829][  0]LogModuleManager: Shutting down and abandoning module SteamShared (46)
+[2023.05.25-23.45.00:829][  0]LogSteamShared: Freeing the Steam Loaded Modules...
+[2023.05.25-23.45.00:829][  0]LogModuleManager: Shutting down and abandoning module HTTP (39)
+[2023.05.25-23.45.00:829][  0]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.05.25-23.45.00:861][  0]LogModuleManager: Shutting down and abandoning module SSL (38)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (34)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (32)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module PlatformCrypto (30)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (28)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module InstancedSplines (24)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module Landscape (22)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (20)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (18)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (16)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (14)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module Renderer (12)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module Engine (10)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.05.25-23.45.00:862][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.05.25-23.45.00:868][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.05.25-23.45.00:868][  0]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.05.25-23.45.00:876][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: 904 items to release
+[2023.05.25-23.45.00:876][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 4922368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:876][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.05.25-23.45.00:877][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.05.25-23.45.00:877][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.05.25-23.45.00:879][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x1E, Flags: 0x1
+[2023.05.25-23.45.00:879][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.05.25-23.45.00:880][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x2A, Flags: 0x1
+[2023.05.25-23.45.00:880][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:881][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:881][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:881][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2023.05.25-23.45.00:882][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.05.25-23.45.00:882][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:883][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:883][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:883][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:884][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.05.25-23.45.00:884][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.05.25-23.45.00:884][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 294912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:885][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 196608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:885][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.05.25-23.45.00:886][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.05.25-23.45.00:886][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 512 x 512 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.05.25-23.45.00:886][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 512 x 512 x 1, Mips: 1, Format: 0x36, Flags: 0x1
+[2023.05.25-23.45.00:887][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76836 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:887][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104316 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:887][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69544 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:888][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69544 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:888][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 176736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:888][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 117824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:889][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 117824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:889][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 89732 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:889][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 269196 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:889][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 179464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:890][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 179464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:890][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69282 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:890][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 120024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:890][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 360072 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:891][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 240048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:891][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 240048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:891][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69282 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:891][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 154500 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:892][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 103000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:892][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 395736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:892][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98934 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:893][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:893][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 255432 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:894][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:894][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 170288 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:894][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98934 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:895][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197874 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:895][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 135236 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:895][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 405708 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:896][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 135236 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:896][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 270472 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:896][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197874 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:897][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99408 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:897][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73392 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:897][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 144444 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:898][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 96296 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:898][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70554 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:899][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79524 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:899][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 238572 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:899][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79524 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:900][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 159048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:900][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70554 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:900][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 141114 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:901][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 130952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:901][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 392856 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:901][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 130952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:901][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 261904 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:902][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 141114 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:902][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71064 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:902][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:903][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 83104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:903][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 199632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:903][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98508 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:903][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 131344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:904][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 65672 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:904][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85584 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:904][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:904][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 146352 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:904][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 97568 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:905][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 191616 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:905][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 127744 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:905][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 96756 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:906][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 222864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:906][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 81600 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:906][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68964 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:907][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 230448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:907][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:907][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 153632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:907][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 128082 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:908][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 443040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:908][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:908][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 295360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:909][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 128082 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:909][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 213474 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:909][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 659688 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:910][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 219896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:910][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 439792 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:911][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 213474 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:911][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 853896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:911][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1001256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:912][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 333752 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:912][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 667504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:912][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 853896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:913][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80800 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:913][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 136584 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:913][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 182112 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:913][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 91056 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:914][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 92616 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:914][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 241572 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:914][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 322096 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:914][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 161048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:915][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 92616 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:915][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 185232 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:915][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 411576 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:916][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 548768 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:916][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 274384 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:916][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 185232 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:917][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:917][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 158080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:917][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 269080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:917][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 158080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:918][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:918][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 158080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:918][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 237120 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:918][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 226032 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:919][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 101268 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:919][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 202536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:919][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:919][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71118 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:919][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 166908 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:920][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 333816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:920][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 111272 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:920][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71118 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:920][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70224 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:921][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 177888 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:921][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 118592 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:921][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70224 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:921][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 140460 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:922][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 97692 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:922][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 293076 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:922][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 97692 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:922][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 195384 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:922][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 140460 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:922][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 92288 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:923][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75348 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:923][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98648 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:923][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 188832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:923][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98648 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:924][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98648 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:924][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147972 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:924][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 125016 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:925][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 193920 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:925][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 377856 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:925][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 193920 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:926][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 96960 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:926][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 193920 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:926][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 290880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:927][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 250128 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:927][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 87480 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:927][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78258 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:928][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 110892 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:928][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:928][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:929][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78258 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:929][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 92112 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:929][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76800 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:930][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99408 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:930][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:931][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:931][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:931][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 140196 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:932][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 216696 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:932][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 113056 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:932][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72904 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:933][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 161728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:933][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:933][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 161728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:934][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 242592 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:934][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 433416 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:934][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 108354 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:935][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143088 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:935][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115476 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:935][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76984 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:936][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 286224 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:936][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71556 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:936][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:937][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 65752 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:937][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 131504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:937][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71556 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:938][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 572424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:938][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143106 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:938][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 334056 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:939][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 111352 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:939][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 222704 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:939][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143106 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:940][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 119376 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:940][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 81036 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:941][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 158280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:941][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 105520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:941][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 101232 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:941][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 125172 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:942][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 375516 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:942][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 125172 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:942][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 250344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:943][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 101232 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:943][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 202452 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:943][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 239432 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:944][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 718296 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:944][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 239432 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:945][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 478864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:945][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 202452 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:945][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 809832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:946][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 384712 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:946][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1154136 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:946][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 384712 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:947][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 769424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:947][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 809832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:947][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 172944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:948][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115296 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:948][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:949][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 206520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:949][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:949][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 137680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:950][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 95586 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:950][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 126164 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:950][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 378492 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:951][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 126164 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:951][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 252328 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:951][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 95586 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:952][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143376 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:952][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 182140 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:952][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 546420 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:953][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 182140 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:953][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 364280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:953][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143376 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:954][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 191166 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:954][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 234284 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:955][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 702852 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:955][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 234284 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:955][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 468568 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:956][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 191166 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:956][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:956][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 137088 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:957][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 157888 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:957][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 157888 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:957][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:957][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 157888 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:958][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 236832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:958][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 548424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:958][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 137106 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:959][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67440 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:959][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 95568 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:959][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 74728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:960][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 74728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:960][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 74728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:960][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 112092 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:961][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 191136 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:961][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 224928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:961][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 224928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:962][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 112464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:962][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 224928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:962][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 337392 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:963][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 764688 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:963][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 191172 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:963][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 100896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:964][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67264 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:964][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67264 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:964][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 121344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:964][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:964][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:965][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 81940 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:965][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 245820 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:965][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 163880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:965][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 163880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:966][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 310908 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:966][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 276252 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:966][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 828756 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:967][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 552504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:967][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 552504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:967][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 310908 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:968][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 621816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:968][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 542176 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:968][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1626528 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:969][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1084352 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:969][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1084352 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:970][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 621816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:970][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 258408 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:970][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70812 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:971][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 212436 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:971][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 141624 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:971][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 141624 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:971][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109434 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:972][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 283392 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:973][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 94464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:974][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 188928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:974][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109434 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:974][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 125616 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:975][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 128652 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:975][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85768 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:975][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85768 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:976][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 123030 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:976][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 138468 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:976][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 415404 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:977][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 276936 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:977][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 276936 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:977][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 123030 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:978][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 246066 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:978][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 238416 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:978][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 715248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:979][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 476832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:979][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 476832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:979][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 246066 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:980][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75264 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:980][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 106824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:981][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:981][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 86888 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:981][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 86888 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:982][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 130332 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:982][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 213696 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:982][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 137436 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:983][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 274872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:983][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 91624 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:983][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 130986 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:984][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 91644 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:984][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 274932 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:984][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 549864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:985][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 183288 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:985][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 130986 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:986][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 92840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:986][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 136632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:986][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:987][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:987][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 140412 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:987][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 144024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:988][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 174048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:988][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 238720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:988][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 187896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:989][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93948 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:989][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 187896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:990][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 281844 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:990][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 311832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:990][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77958 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:991][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 333880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:991][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 433304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:991][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 366104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:991][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 183052 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:992][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 366104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:992][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 549156 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:992][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 623712 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:992][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 155928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:992][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70176 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:993][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109212 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:993][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145616 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:993][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72808 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:993][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 310512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:993][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77628 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:994][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:994][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 206976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:994][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 275968 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:994][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 137984 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:995][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77628 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:995][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 162018 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:995][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 110596 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:995][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 331788 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:995][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 552980 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:996][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 221192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:996][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 162018 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:996][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73596 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:996][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 128196 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:996][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:997][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98820 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:997][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:997][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 257040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:997][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:997][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 171360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:998][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98820 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:998][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:998][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145740 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:998][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 437220 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:998][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145740 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:999][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 291480 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:999][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:999][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 86140 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.00:999][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 258420 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:000][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 172280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:000][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 172280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:000][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 138132 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:000][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 171844 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:000][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 515532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:001][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 343688 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:001][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 343688 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:001][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 138132 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:001][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 552516 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:002][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 313780 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:002][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 941340 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:002][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 627560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:002][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 627560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:003][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 552516 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:003][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:003][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 233976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:003][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 155984 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:003][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 155984 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:004][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 135276 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:004][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 151128 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:005][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 453384 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:005][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 302256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:005][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 302256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:006][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 135276 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:006][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 270546 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:006][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 259000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:006][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 777000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:007][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 518000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:007][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 518000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:007][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 270546 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:008][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 87744 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:008][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 118176 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:008][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 84448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:008][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:008][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:009][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 163500 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:009][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 259896 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:009][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 150024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:010][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 82792 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:010][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 175368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:010][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 87684 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:010][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 175368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:011][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 263052 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:011][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 519816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:011][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 129954 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:011][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 149460 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:012][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:012][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:012][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 151488 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:012][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 100992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:012][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 100992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:013][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 113736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:013][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 126724 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:013][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 380172 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:013][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 253448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:013][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 253448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:014][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 113736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:014][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:014][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 97944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:014][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 94448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:015][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 86328 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:015][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:015][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:016][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 156288 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:016][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 226656 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:017][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 146544 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:017][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 116248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:017][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 187504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:018][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93752 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:018][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 187504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:018][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 281256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:019][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 453360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:019][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 113340 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:019][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:020][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 100832 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:020][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:021][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:021][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:021][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 107820 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:021][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 119688 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:021][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145800 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:022][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 186504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:022][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 153168 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:022][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 153168 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:022][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 153168 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:023][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 229752 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:023][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 272184 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:023][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68046 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:023][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 262416 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:024][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 322216 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:024][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 297000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:024][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 297000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:024][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 297000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:025][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 445500 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:025][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 544392 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:025][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 136098 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:025][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98088 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:026][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 196176 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:026][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197460 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:027][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 394920 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:027][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 131640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:027][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:028][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 408516 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:028][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 817032 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:028][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 272344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:028][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:029][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 315636 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:029][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 790872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:029][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1581744 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:030][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 527248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:030][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 315636 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:030][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 65796 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:031][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 139932 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:031][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 93288 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:031][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 265584 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:032][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 88528 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:032][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 177056 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:032][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71568 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:033][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 246720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:033][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:033][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 129936 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:034][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 123264 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:034][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 123552 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:034][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72768 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:034][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145584 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:034][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71376 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:035][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 142728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:035][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 88104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:035][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 285552 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:036][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71388 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:036][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 81608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:036][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 204960 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:036][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 102480 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:037][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 153720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:037][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 461424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:037][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115356 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:038][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:038][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 171008 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:038][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:038][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 128256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:039][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 396288 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:039][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99072 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:039][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 161376 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:040][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:040][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 121664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:040][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 91248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:040][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71160 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:041][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 105864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:041][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 232432 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:041][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 236608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:041][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 118304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:042][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 177456 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:042][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 142368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:042][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 146400 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:043][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 242864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:043][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 159328 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:043][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:044][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 159328 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:044][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 238992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:044][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 237336 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:045][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 90528 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:045][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:045][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:046][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 162192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:046][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 108128 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:046][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67044 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:047][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 318012 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:047][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 106004 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:047][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 212008 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:048][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67044 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:048][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:048][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:048][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:049][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 82248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:049][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:050][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:050][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:050][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:050][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 117552 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:050][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 283776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:051][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 70944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:051][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78056 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:051][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 84396 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:052][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 95040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:052][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 83964 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:052][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 156228 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:053][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104152 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:053][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104152 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:053][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 113208 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:054][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 150944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:054][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75472 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:054][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68624 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:055][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 205872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:055][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 274496 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:055][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 137248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:056][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 119442 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:056][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 117820 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:056][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 353460 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:057][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 471280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:057][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 235640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:057][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 119442 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:057][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143724 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:058][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 191632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:058][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 95816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:058][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80454 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:058][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 87760 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:059][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 263280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:059][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 351040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:059][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 175520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:060][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80454 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:060][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 160902 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:060][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:061][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 437976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:061][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 583968 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:061][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 291984 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:062][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 160902 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:062][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 89520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:062][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 119360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:063][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98016 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:063][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 113036 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:063][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 339108 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:064][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 452144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:064][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 226072 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:064][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98016 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:064][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 196020 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:065][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 206184 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:065][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 618552 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:065][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 824736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:066][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 412368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:066][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 196020 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:066][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 784104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:067][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 328740 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:067][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 986220 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:067][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1314960 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:068][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 657480 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:068][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 784104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:068][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80568 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:068][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 107424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:069][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75316 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:069][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 225948 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:069][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 301264 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:069][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 150632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:069][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 107964 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:070][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115744 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:070][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 347232 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:070][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 462976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:071][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 231488 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:071][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 107964 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:071][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 215922 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:072][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 204876 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:072][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 614628 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:072][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 819504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:073][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 409752 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:073][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 215922 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:073][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 863676 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:073][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 320996 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:074][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 962988 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:074][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1283984 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:074][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 641992 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:074][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 863676 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:075][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 87804 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:075][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 117072 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:075][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 129060 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:075][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 169276 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:076][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 507828 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:076][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 677104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:076][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 338552 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:076][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 129060 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:077][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 430200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:077][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 273212 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:077][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 819636 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:077][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1092848 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:078][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 546424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:078][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 430200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:078][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 645300 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:079][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 396028 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:079][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1188084 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:079][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1584112 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:080][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 792056 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:080][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 645300 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:080][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 860400 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:081][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 503160 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:081][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1509480 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:081][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 2012640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:081][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1006320 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:082][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 860400 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:082][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85596 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:082][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:083][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 121368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:083][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:083][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:084][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78342 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:084][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197388 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:084][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 131592 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:085][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 131592 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:085][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78342 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:086][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 81564 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:086][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 164268 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:086][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:087][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 109512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:087][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 246060 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:087][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 164040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:088][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 164040 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:088][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 326172 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:088][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 217448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:089][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 217448 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:089][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 120912 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:089][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85400 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:090][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 100624 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:090][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 327680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:090][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 163840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:090][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 327680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:091][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 491520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:091][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1078200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:091][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 269550 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:091][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 96204 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:092][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 142776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:092][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68424 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:092][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69240 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:093][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:093][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 251432 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:093][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 125716 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:093][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 251432 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:094][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 377148 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:094][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 714048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:095][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 178512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:095][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 97152 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:095][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 88328 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:095][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 96976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:096][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:096][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:096][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 358544 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:097][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 179272 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:097][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 358544 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:097][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 537816 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:097][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1071096 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:098][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 267774 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:098][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 111744 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:098][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 111744 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:098][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 152400 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:098][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67968 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:099][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67968 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:099][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67968 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:099][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 121872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:100][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 121872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:100][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 112836 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:100][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75224 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:100][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75224 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:101][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 121872 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:101][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77184 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:101][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77184 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:101][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71220 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:101][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71220 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:102][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77184 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:102][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78732 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:102][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 66160 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:102][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 66160 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:103][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 66160 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:103][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 99240 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:104][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 202368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:104][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 122928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:104][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71836 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:104][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 215508 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:104][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71836 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:105][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 143672 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:105][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:105][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 140292 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:105][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 420876 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:106][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 140292 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:106][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 280584 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:106][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 77304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:106][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 309216 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:106][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 271840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:107][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 815520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:107][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 271840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:107][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 543680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:108][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 309216 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:108][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 94176 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:108][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:108][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 367248 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:109][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:109][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73540 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:109][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:110][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 220620 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:110][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 154560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:110][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 582664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:111][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1432256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:111][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 582664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:111][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 291332 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:112][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 582664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:112][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 873996 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:112][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1236864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:113][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 309216 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:113][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 71064 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:113][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:113][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 201072 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:113][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:114][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 134048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:114][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72714 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:114][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 102972 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:115][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 308916 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:115][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 102972 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:115][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 205944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:116][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72714 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:116][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145422 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:116][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 190344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:116][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 571032 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:117][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 190344 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:117][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 380688 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:117][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145422 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:117][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 78768 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:118][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75408 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:118][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75408 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:118][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 91932 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:119][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 91944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:119][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 85008 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:119][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 138720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:120][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:120][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 80664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:120][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:120][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:120][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 148428 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:121][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 277512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:121][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 69378 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:122][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 166776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:122][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 105032 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:122][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 333552 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:122][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 83388 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:123][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 166776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:123][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 250164 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:123][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 555048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:123][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 138762 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:124][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 100464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:124][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 66976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:124][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 66976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:124][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 190428 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:125][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 126952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:125][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 126952 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:125][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 90870 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:126][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 118752 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:126][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 356256 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:126][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 237504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:127][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 237504 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:127][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 90870 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:127][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 88216 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:128][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 87252 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:128][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 90864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:128][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 204696 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:128][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 250928 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:129][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 204696 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:129][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 204696 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:129][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 204696 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:129][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 307044 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:129][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 363480 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:130][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 90870 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:130][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 75780 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:130][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 97360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:131][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 76692 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:131][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104632 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:132][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 181768 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:132][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:132][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 104824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:132][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 157236 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:132][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 145512 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:133][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197080 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:133][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 326136 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:133][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197336 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:133][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 98668 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:134][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 197336 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:134][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 296004 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:134][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 291144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:135][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72786 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:135][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 72000 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:135][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 133572 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:136][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 89048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:136][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 250020 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:136][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 83340 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:137][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 166680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:137][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147472 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:137][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 176944 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:137][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:137][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147472 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:138][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 73736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:138][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 147472 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:138][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 221208 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:138][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 259296 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:139][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 74232 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:139][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 148464 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:139][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 101580 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:140][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:140][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 67720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:140][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 125088 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:141][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79026 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:141][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 103260 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:141][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 68840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:141][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 79026 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:142][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 66776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:142][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 129864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:142][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 132840 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:143][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 265680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:143][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 88560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:143][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 279600 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:144][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 559200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:144][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 186400 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:144][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:144][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 548280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:145][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1096560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:145][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 365520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:145][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 115200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:146][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 81276 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:146][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 128664 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:146][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 86024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:146][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 172048 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:147][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 86024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:147][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 129036 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:147][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 257376 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.05.25-23.45.01:364][  0]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.05.25-23.45.01:366][  0]LogExit: Exiting.
+[2023.05.25-23.45.01:381][  0]Log file closed, 05/25/23 20:45:01
